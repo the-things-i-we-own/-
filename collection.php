@@ -137,7 +137,7 @@ fclose($fp);
 
 <body>
     <p id="infomation">
-        <u><span class="pehu">∧°┐</span> が 所有するすべてのもの</u><br/>
+        <u><span class="pehu">∧°┐</span> が 所有するもの</u><br/>
         <sup>※ 説明</sup>
     </p>
     <ol id="collection" class="org">
