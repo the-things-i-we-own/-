@@ -8,7 +8,7 @@ $format = (string)filter_input(INPUT_POST, 'format');
 $text = (string)filter_input(INPUT_POST, 'text');
 $link = (string)filter_input(INPUT_POST, 'link');
 
-$fp = fopen('otobuilding.csv', 'a+b');
+$fp = fopen('list.csv', 'a+b');
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     flock($fp, LOCK_EX);
     fputcsv($fp, [$org, $title, $format, $text, $link]);
@@ -82,7 +82,7 @@ fclose($fp);
         <p class="update cc_style">
         Last Modified : 
             <?php
-            $mod = filemtime('otobuilding.csv');
+            $mod = filemtime('list.csv');
             date_default_timezone_set('Asia/Tokyo');
             print "".date("r",$mod);
             ?>

@@ -481,9 +481,9 @@ fclose($fp);
         $("#fashion").load("3d/fashion.php");
         $("#music").load("3d/music.php");
         $("#img").load("collection.php");
-        $("#otobuilding").load("otobuilding.php");
-        $("#nishitemma").load("nishitemma.php");
-        $("#niceshopsu").load("niceshopsu.php");
+        $("#otobuilding").load("otobuilding/list.php");
+        $("#nishitemma").load("nishitemma/list.php");
+        $("#niceshopsu").load("niceshopsu/list.php");
     })
 
         var volume;

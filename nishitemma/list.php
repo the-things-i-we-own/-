@@ -8,7 +8,7 @@ $format = (string)filter_input(INPUT_POST, 'format');
 $text = (string)filter_input(INPUT_POST, 'text');
 $link = (string)filter_input(INPUT_POST, 'link');
 
-$fp = fopen('niceshopsu.csv', 'a+b');
+$fp = fopen('list.csv', 'a+b');
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     flock($fp, LOCK_EX);
     fputcsv($fp, [$org, $title, $format, $text, $link]);
@@ -28,21 +28,21 @@ fclose($fp);
 <html lang="ja">
 
 <head>
-    <title>gallery, community space | The Things ∧° ┐ Own</title>
+    <title>creative, community space | The Things ∧° ┐ Own</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="/org/index.css" />
     <link rel="stylesheet" href="/org/searchBox.css" />
     <style>
-        #niceshopsu {
+        #nishitemma {
             position: relative;
         }
 
-        #niceshopsu h2 {
+        #nishitemma h2 {
             padding: 1rem 1rem 0.25rem;
         }
 
-        #niceshopsu p {
+        #nishitemma p {
             font-size: 0.75rem;
             margin: 0;
             padding: 0.25rem 0.5rem;
@@ -51,12 +51,12 @@ fclose($fp);
             transform: scale(1, 1.25);
         }
         
-        #niceshopsu p b {
+        #nishitemma p b {
             font-size: 150%;
             display: inline-block;
         }
         
-        #niceshopsu p u {
+        #nishitemma p u {
             float: right;
             font-size: 75%;
             margin: 0;
@@ -69,7 +69,7 @@ fclose($fp);
             display: block;
         }
         
-        #niceshopsu .update {
+        #nishitemma .update {
             color:#eee;
             padding: 0.25rem 1rem 1.25rem;
         }
@@ -77,12 +77,12 @@ fclose($fp);
 </head>
 
 <body>
-    <ol id="niceshopsu" class="org">
-        <h2>gallery, community space | - 2018</h2>
+    <ol id="nishitemma" class="org">
+        <h2>creative, community space | 2018 - 2019</h2>
         <p class="update cc_style">
         Last Modified : 
             <?php
-            $mod = filemtime('niceshopsu.csv');
+            $mod = filemtime('list.csv');
             date_default_timezone_set('Asia/Tokyo');
             print "".date("r",$mod);
             ?>
