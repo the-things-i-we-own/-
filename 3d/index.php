@@ -325,7 +325,7 @@ fclose($fp);
             </span>
             <form>
                 <ol class="search-box">
-                    <li>やること</li>
+                    <li>プログラム</li>
                     <li>
                         <input type="radio" name="org" value="things" id="things">
                         <label for="things" class="label">ホームページを作る</label>

@@ -92,11 +92,10 @@ fclose($fp);
 
 <body>
     <ol id="about" class="org">
-        <h2>このホームページについて</h2>
-        <p>挨拶文</p>
-        <p>右にスクロールすると閲覧できるリストについて</p>
+        <h2>∧° ┐が BnA Alter Museum に滞在し、夏の自由研究を実施する</h2>
+        <p>右にスクロールすると、自由研究の予定が表示されます。</p>
         <hr/>
-        <h2>絞り込みについて</h2>
+        <h2>プログラム</h2>
         <br/>
         <?php if (!empty($rows)): ?>
         <?php foreach ($rows as $row): ?>
