@@ -59,7 +59,7 @@ fclose($fp);
     <link rel="stylesheet" href="https://creative-community.space/org/index.css" />
     <link rel="stylesheet" href="https://creative-community.space/org/searchBox.css" />
     <link rel="stylesheet" href="index.css" />
-    <link rel="stylesheet" href="../cover.css" />
+    <link rel="stylesheet" href="/org/cover.css" />
     <style>
         :root {
             --text-color: #111;
