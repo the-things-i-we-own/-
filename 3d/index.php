@@ -117,13 +117,9 @@ fclose($fp);
             display: block;
         }
 
-        #bought:checked~label,
-        #gift:checked~label,
-        #free:checked~label,
-        #made:checked~label,
-        #collaborations:checked~label,
-        #other:checked~label,
-        #sale:checked~label {
+        #things:checked~label,
+        #print:checked~label,
+        #goout:checked~label {
             text-decoration: double underline;
         }
         
@@ -332,32 +328,16 @@ fclose($fp);
                 <ol class="search-box">
                     <li>絞り込み</li>
                     <li>
-                        <input type="radio" name="org" value="bought" id="bought">
-                        <label for="bought" class="label">bought</label>
+                        <input type="radio" name="org" value="things" id="things">
+                        <label for="things" class="label">org</label>
                     </li>
                     <li>
-                        <input type="radio" name="org" value="gift" id="gift">
-                        <label for="gift" class="label">gift</label>
+                        <input type="radio" name="org" value="print" id="print">
+                        <label for="print" class="label">printing</label>
                     </li>
                     <li>
-                        <input type="radio" name="org" value="free" id="free">
-                        <label for="free" class="label">free or found</label>
-                    </li>
-                    <li>
-                        <input type="radio" name="org" value="made" id="made">
-                        <label for="made" class="label">made</label>
-                    </li>
-                    <li>
-                        <input type="radio" name="org" value="collaborations" id="collaborations">
-                        <label for="collaborations" class="label">collaborations</label>
-                    </li>
-                    <li>
-                        <input type="radio" name="org" value="other" id="other">
-                        <label for="other" class="label">other</label>
-                    </li>
-                    <li>
-                        <input type="radio" name="org" value="sale" id="sale">
-                        <label for="sale" class="label">$$$ FOR SALE $$$</label>
+                        <input type="radio" name="org" value="goout" id="goout">
+                        <label for="goout" class="label">go out</label>
                     </li>
                     <li class="reset">
                         <input type="reset" name="reset" value="View All" class="reset-button label" onclick="greeting()">
