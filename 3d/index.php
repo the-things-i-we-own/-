@@ -102,21 +102,6 @@ fclose($fp);
             letter-spacing: -0.1rem;
             word-spacing: -.1ch;
         }
-
-        #sign {
-            position: absolute;
-            top:0;
-            left:0;
-            z-index:-1;
-            width:100%;
-            height:100%;
-        }
-
-        #sign iframe {
-            height:100%;
-            width:100%;
-            border:none;
-        }
         
         #about {
             width: 35rem;
@@ -385,6 +370,7 @@ fclose($fp);
                 <?php endif; ?>
             </ol>
         </div>
+        <div id="sign"></div>
         <div id="greeting">
             <p id="text"></p>
         </div>
@@ -406,7 +392,6 @@ fclose($fp);
                 ?>
             </p>
         </div>
-        <div id="sign"><iframe src="/sign/bnaaltermuseum/background.php"></div>
         <ul class="mousedragscrollable">
             <li id="about" class="collection"></li>
             <li id="one" class="collection"></li>
