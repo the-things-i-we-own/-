@@ -366,6 +366,7 @@ fclose($fp);
     </header>
 
     <main id="main">
+        <div id="sign"></div>
         <div id="cover">
             <ol id="images" class="org">
                 <?php if (!empty($rows)): ?>
@@ -381,7 +382,6 @@ fclose($fp);
                 <?php endif; ?>
             </ol>
         </div>
-        <div id="sign"></div>
         <div id="greeting">
             <p id="text"></p>
         </div>
