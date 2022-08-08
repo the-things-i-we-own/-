@@ -118,7 +118,7 @@ fclose($fp);
         <?php endif; ?>
         <br/>
         <p>Links
-            <a href="https://newlifecollection.com/ca88/1314/p-r-s/" target="_blank">The Things I（We）Own, in 3D</a>
+            <a href="https://newlifecollection.com/ca88/1314/p-r-s/" target="_blank">もっと詳しく</a>
         </p>
     </ol>
 
