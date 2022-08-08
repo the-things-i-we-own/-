@@ -71,7 +71,7 @@ fclose($fp);
             --org-text: #111;
             --org-bg: #fff;
             --org-border: solid 1px #111;
-            --update-text: #eee;
+            --update-text: #ccc;
         }
         
         @font-face {
