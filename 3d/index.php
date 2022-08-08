@@ -328,15 +328,15 @@ fclose($fp);
                     <li>programs</li>
                     <li>
                         <input type="radio" name="org" value="things" id="things">
-                        <label for="things" class="label">org</label>
+                        <label for="things" class="label">ホームページを作る</label>
                     </li>
                     <li>
                         <input type="radio" name="org" value="print" id="print">
-                        <label for="print" class="label">printing</label>
+                        <label for="print" class="label">箱を装飾する</label>
                     </li>
                     <li>
                         <input type="radio" name="org" value="goout" id="goout">
-                        <label for="goout" class="label">go out</label>
+                        <label for="goout" class="label">言葉を集める</label>
                     </li>
                     <li class="reset">
                         <input type="reset" name="reset" value="View All" class="reset-button label" onclick="greeting()">
