@@ -66,9 +66,9 @@ fclose($fp);
             --hover-color: #aaa;
             --border-style: 1px dashed #ccc;
             --bg-color: linear-gradient(90deg, #B3CBF6, #FFC778, #EEE);
-            --list-bg: linear-gradient(90deg, #B3CBF6, #FFC778, #EEE);
-            --list-text: #fff;
-            --org-text: #111;
+            --list-bg: #fff;
+            --list-text: #111;
+            --org-text: #eee;
             --org-bg: #fff;
             --org-border: solid 1px #111;
             --update-text: #aaa;
@@ -143,7 +143,7 @@ fclose($fp);
         }
         
         #cover {
-            background-image: url("");
+            background-image: url("logo.png");
             background-position: center;
             background-size: auto 100%;
             background-repeat: no-repeat;
