@@ -65,7 +65,7 @@ fclose($fp);
             --text-color: #111;
             --hover-color: #aaa;
             --border-style: 1px dashed #ccc;
-            --bg-color: transparent;
+            --bg-color: linear-gradient(90deg, #B3CBF6, #FFC778, #EEE);
             --list-bg: transparent;
             --list-text: #111;
             --org-text: #111;
