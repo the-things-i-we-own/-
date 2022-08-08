@@ -65,7 +65,7 @@ fclose($fp);
             --text-color: #111;
             --hover-color: #ccc;
             --border-style: 1px dashed #ccc;
-            --bg-color: transparent;
+            --bg-color: #eee;
             --list-bg: #fff;
             --list-text: #111;
             --org-text: #111;
@@ -370,7 +370,6 @@ fclose($fp);
                 <?php endif; ?>
             </ol>
         </div>
-        <div id="sign"></div>
         <div id="greeting">
             <p id="text"></p>
         </div>
