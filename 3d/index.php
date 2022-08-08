@@ -109,6 +109,7 @@ fclose($fp);
             left:0;
             z-index:-1;
             width:100%;
+            height:100%;
         }
 
         #sign iframe {
@@ -247,7 +248,6 @@ fclose($fp);
             cursor: pointer;
         }
         
-        #sign,
         #main {
             min-height: 77.5vh;
             max-height: 77.5vh;
@@ -282,7 +282,6 @@ fclose($fp);
             #images .list_item {
                 margin: 1.75vh 0;
             }
-            #sign,
             #main {
                 min-height: 77.5vh;
                 max-height: 77.5vh;
@@ -296,7 +295,6 @@ fclose($fp);
             #images .list_item {
                 margin: 1.25vh 0;
             }
-            #sign,
             #main {
                 min-height: 75vh;
                 max-height: 75vh;
