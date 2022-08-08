@@ -386,7 +386,10 @@ fclose($fp);
         </div>
         <ul class="mousedragscrollable">
             <li id="about" class="collection"></li>
-            <li id="test" class="collection"></li>
+            <li id="one" class="collection"></li>
+            <li id="two" class="collection"></li>
+            <li id="three" class="collection"></li>
+            <li id="four" class="collection"></li>
         </ul>
     </main>
 
@@ -426,7 +429,10 @@ fclose($fp);
 
         $(function() {
             $("#about").load("about.php");
-            $("#test").load("test/index.php");
+            $("#one").load("13/index.php");
+            $("#two").load("14/index.php");
+            $("#three").load("15/index.php");
+            $("#four").load("16/index.php");
         })
     </script>
 </body>
