@@ -27,7 +27,7 @@ fclose($fp);
 <html lang="ja">
 
 <head>
-    <title>Title | The Things I (We) Own</title>
+    <title>令和四年版　夏の自由研究 | The Things I (We) Own</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="format-detection" content="telephone=no">
@@ -319,7 +319,7 @@ fclose($fp);
             ここをクリックすると、（）が所有するもの一覧が表示されます。
         </marquee>
         <nav id="nav">
-            <h1>ホームページのタイトル</h1>
+            <h1>令和四年版　夏の自由研究</h1>
             <span id="presents">
                 <img src="https://creative-community.space/org/qr.png" width="50rem">
             </span>
@@ -402,7 +402,6 @@ fclose($fp);
         <ul class="mousedragscrollable">
             <li id="about" class="collection"></li>
             <li id="test" class="collection"></li>
-            <li id="img" class="collection"></li>
         </ul>
     </main>
 
@@ -443,7 +442,6 @@ fclose($fp);
         $(function() {
             $("#about").load("about.php");
             $("#test").load("test/index.php");
-            $("#img").load("img.php");
         })
     </script>
 </body>
