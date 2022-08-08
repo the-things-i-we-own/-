@@ -92,10 +92,10 @@ fclose($fp);
 
 <body>
     <ol id="about" class="org">
-        <h2>∧° ┐が BnA Alter Museum に滞在し、夏の自由研究を実施する</h2>
-        <p>右にスクロールすると、自由研究の予定が表示されます。</p>
+        <h2>2022年8月13日(土) - 16日(火)</h2>
+        <p>∧° ┐が BnA Alter Museum に滞在し、夏の自由研究を実施する</p>
         <hr/>
-        <h2>プログラム</h2>
+        <h2>右にスクロールすると、自由研究の予定が表示されます。</h2>
         <br/>
         <?php if (!empty($rows)): ?>
         <?php foreach ($rows as $row): ?>
