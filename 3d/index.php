@@ -326,7 +326,7 @@ fclose($fp);
             </span>
             <form>
                 <ol class="search-box">
-                    <li>絞り込み</li>
+                    <li>programs</li>
                     <li>
                         <input type="radio" name="org" value="things" id="things">
                         <label for="things" class="label">org</label>
