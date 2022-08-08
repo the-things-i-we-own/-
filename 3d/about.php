@@ -32,7 +32,7 @@ fclose($fp);
     <link rel="stylesheet" href="searchBox.css" />
     <style>
         :root {
-            --about-bg: #fff;
+            --about-bg: transparent;
             --about-decoration: blue wavy underline;
             --about-a: blue;
         }
