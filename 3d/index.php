@@ -27,17 +27,17 @@ fclose($fp);
 <html lang="ja">
 
 <head>
-    <title>令和四年版　夏の自由研究 | The Things I (We) Own</title>
+    <title>令和四年版　夏の自由研究 | The Things I (We) Own, in 3D</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="format-detection" content="telephone=no">
     <meta name="author" content="creative-community.space">
-    <meta name="description" content="___">
+    <meta name="description" content="2022年8月13日(土) - 16日(火) | ∧° ┐が BnA Alter Museum に滞在し、夏の自由研究を実施します。">
 
-    <meta property="og:title" content="___" />
-    <meta property="og:description" content="___" />
+    <meta property="og:title" content="令和四年版　夏の自由研究 | The Things I (We) Own, in 3D" />
+    <meta property="og:description" content="2022年8月13日(土) - 16日(火) | ∧° ┐が BnA Alter Museum に滞在し、夏の自由研究を実施します。" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="___" />
+    <meta property="og:url" content="https://creative-community.space/pehu/org/3d/" />
     <meta property="og:site_name" content="creative-community.space" />
     <meta property="og:image" content="___" />
     <meta property="og:locale" content="ja_JP" />
@@ -62,16 +62,21 @@ fclose($fp);
     <link rel="stylesheet" href="cover.css" />
     <style>
         :root {
-            --text-color: red;
-            --hover-color: blue;
-            --border-style: 1px dashed green;
-            --bg-color: yellow;
+            --text-color: #111;
+            --hover-color: #aaa;
+            --border-style: 1px dashed #ccc;
+            --bg-color: transparent;
             --list-bg: transparent;
-            --list-text: green;
-            --org-text: blue;
-            --org-bg: green;
-            --org-border: solid 1px blue;
-            --update-text: #fff;
+            --list-text: #111;
+            --org-text: #111;
+            --org-bg: #fff;
+            --org-border: solid 1px #111;
+            --update-text: #aaa;
+        }
+        
+        @font-face {
+            font-family: "ipag";
+            src: url("https://creative-community.space/coding/fontbook/family/IPA/ipag.ttf");
         }
         
         #server p,
@@ -80,7 +85,7 @@ fclose($fp);
         .reset-button,
         .collection p,
         marquee {
-            font-family: "Courier New", Courier, monospace;
+            font-family: "ipag", monospace;
             transform: scale(1, 1.25);
         }
         
@@ -89,7 +94,7 @@ fclose($fp);
         h1,
         h2,
         .collection h2 {
-            font-family: "Arial Narrow", Arial, sans-serif;
+            font-family: 'Times New Roman', serif;
             font-weight: 500;
             font-stretch: condensed;
             font-variant: common-ligatures tabular-nums;
@@ -314,9 +319,9 @@ fclose($fp);
 <body id="open">
 
     <header id="header">
-        <a class="_more" onclick="more()">The Things I (We) Own</a>
+        <a class="_more" onclick="more()">The Things I (We) Own, in 3D</a>
         <marquee id="marquee">
-            ここをクリックすると、（）が所有するもの一覧が表示されます。
+            ここをクリックすると、令和四年版　夏の自由研究の予定表が表示されます。
         </marquee>
         <nav id="nav">
             <h1>令和四年版　夏の自由研究</h1>
