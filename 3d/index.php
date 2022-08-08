@@ -370,6 +370,7 @@ fclose($fp);
                 <?php endif; ?>
             </ol>
         </div>
+        <div id="sign"></div>
         <div id="greeting">
             <p id="text"></p>
         </div>
@@ -440,6 +441,7 @@ fclose($fp);
             $("#two").load("0814/index.php");
             $("#three").load("0815/index.php");
             $("#four").load("0816/index.php");
+            $("#sign").load("/sign/bnaaltermuseum/background.php");
         })
     </script>
 </body>
