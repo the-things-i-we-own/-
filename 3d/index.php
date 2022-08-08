@@ -110,6 +110,12 @@ fclose($fp);
             z-index:-1;
             width:100%;
         }
+
+        #sign iframe {
+            height:100%;
+            width:100%;
+            border:none;
+        }
         
         #about {
             width: 35rem;
@@ -366,7 +372,7 @@ fclose($fp);
     </header>
 
     <main id="main">
-        <div id="sign"></div>
+        <div id="sign"><iframe src="/sign/bnaaltermuseum/background.php"></div>
         <div id="cover">
             <ol id="images" class="org">
                 <?php if (!empty($rows)): ?>
@@ -452,7 +458,6 @@ fclose($fp);
             $("#two").load("0814/index.php");
             $("#three").load("0815/index.php");
             $("#four").load("0816/index.php");
-            $("#sign").load("/sign/bnaaltermuseum/background.php");
         })
     </script>
 </body>
