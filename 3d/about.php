@@ -5,6 +5,7 @@ function h($str) {
 $org = (string)filter_input(INPUT_POST, 'org');
 $title = (string)filter_input(INPUT_POST, 'title');
 $text = (string)filter_input(INPUT_POST, 'text');
+$link = (string)filter_input(INPUT_POST, 'link');
 
 $fp = fopen('about.csv', 'a+b');
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
@@ -51,6 +52,10 @@ fclose($fp);
 
         #about h2 {
             padding: 1rem 1rem 0.25rem;
+        }
+
+        .none {
+            display:none;
         }
 
         #about p {
@@ -105,6 +110,7 @@ fclose($fp);
                 <b><?=h($row[1])?></b>
             </p>
             <p><?=h($row[2])?></p>
+            <p class="<?=h($row[4])?>"><a href="<?=h($row[3])?>" target="_blank">もっと詳しく</a></p>
         </li>
         <?php endforeach; ?>
         <?php else: ?>
@@ -116,10 +122,6 @@ fclose($fp);
             <p>カテゴリの説明</p>
         </li>
         <?php endif; ?>
-        <br/>
-        <p>Links
-            <a href="https://newlifecollection.com/ca88/1314/p-r-s/" target="_blank">もっと詳しく</a>
-        </p>
     </ol>
 
     <script src="index.js"></script>
