@@ -78,7 +78,7 @@ fclose($fp);
 
 <body>
     <ol class="org">
-        <h2>リスト</h2>
+        <h2>2022年8月15日(月)</h2>
         <p class="update">
         Last Modified : 
             <?php
