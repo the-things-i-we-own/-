@@ -370,7 +370,6 @@ fclose($fp);
     </header>
 
     <main id="main">
-        <div id="sign"><iframe src="/sign/bnaaltermuseum/background.php"></div>
         <div id="cover">
             <ol id="images" class="org">
                 <?php if (!empty($rows)): ?>
@@ -407,6 +406,7 @@ fclose($fp);
                 ?>
             </p>
         </div>
+        <div id="sign"><iframe src="/sign/bnaaltermuseum/background.php"></div>
         <ul class="mousedragscrollable">
             <li id="about" class="collection"></li>
             <li id="one" class="collection"></li>
