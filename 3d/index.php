@@ -102,6 +102,15 @@ fclose($fp);
             letter-spacing: -0.1rem;
             word-spacing: -.1ch;
         }
+
+        #sign {
+            position: absolute;
+            top:0;
+            left:0;
+            z-index:0;
+            width:100%;
+            height:100%;
+        }
         
         #about {
             width: 35rem;
