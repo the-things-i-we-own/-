@@ -107,8 +107,8 @@ fclose($fp);
                 <u><?=h($row[0])?></u>
                 <b><?=h($row[1])?></b>
             </p>
-            <p><?=h($row[2])?></p>
-            <p class="<?=h($row[4])?>"><a href="<?=h($row[3])?>" target="_blank">もっと詳しく</a></p>
+            <p><?=h($row[2])?>
+            <a class="<?=h($row[4])?>" href="<?=h($row[3])?>" target="_blank">もっと詳しく</a></p>
         </li>
         <?php endforeach; ?>
         <?php else: ?>
