@@ -255,6 +255,7 @@ fclose($fp);
         .collection {
             width: 25rem;
             max-width: 75%;
+            overflow: scroll;
         }
         
         #footer,
