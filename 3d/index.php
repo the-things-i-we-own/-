@@ -166,6 +166,7 @@ fclose($fp);
             margin: 2.5vh 0;
         }
 
+        #about .none,
         #images li:nth-child(n+26) {
             display: none;
         }
