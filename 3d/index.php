@@ -116,9 +116,9 @@ fclose($fp);
             display: block;
         }
 
-        #things:checked~label,
-        #print:checked~label,
-        #goout:checked~label {
+        #website:checked~label,
+        #org:checked~label,
+        #map:checked~label {
             text-decoration: double underline;
         }
         
@@ -340,16 +340,16 @@ fclose($fp);
                 <ol class="search-box">
                     <li>ワークショップ</li>
                     <li>
-                        <input type="radio" name="org" value="things" id="things">
-                        <label for="things" class="label">ホームページを作る</label>
+                        <input type="radio" name="org" value="website" id="website">
+                        <label for="website" class="label">ホームページを作る</label>
                     </li>
                     <li>
-                        <input type="radio" name="org" value="print" id="print">
-                        <label for="print" class="label">箱を装飾する</label>
+                        <input type="radio" name="org" value="org" id="org">
+                        <label for="org" class="label">箱を装飾する</label>
                     </li>
                     <li>
-                        <input type="radio" name="org" value="goout" id="goout">
-                        <label for="goout" class="label">言葉を集める</label>
+                        <input type="radio" name="org" value="map" id="map">
+                        <label for="map" class="label">言葉を集める</label>
                     </li>
                     <li class="reset">
                         <input type="reset" name="reset" value="View All" class="reset-button label" onclick="greeting()">
