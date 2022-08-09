@@ -105,7 +105,6 @@ fclose($fp);
         #about {
             width: 35rem;
             max-width: 95%;
-            overflow: scroll;
         }
 
         #img {
