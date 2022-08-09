@@ -351,10 +351,6 @@ fclose($fp);
                         <input type="radio" name="org" value="goout" id="goout">
                         <label for="goout" class="label">言葉を集める</label>
                     </li>
-                    <li>
-                        <input type="radio" name="org" value="other" id="other">
-                        <label for="other" class="label">その他</label>
-                    </li>
                     <li class="reset">
                         <input type="reset" name="reset" value="View All" class="reset-button label" onclick="greeting()">
                     </li>
