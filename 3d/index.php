@@ -211,7 +211,7 @@ fclose($fp);
         
         header marquee:hover {
             color: #fff;
-            background: #aaa;
+            background: #ccc;
         }
         
         header,
