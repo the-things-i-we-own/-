@@ -121,6 +121,12 @@ fclose($fp);
             <p>カテゴリの説明</p>
         </li>
         <?php endif; ?>
+        <p>Links<br/>
+            <a href="https://newlifecollection.com/ca88/1314/p-r-s/" target="_blank">[ワークショップ] 令和四年版　夏の自由研究 の 詳細</a><br/>
+            <a href="https://newlifecollection.com/ca94/1313/p-r-s/" target="_blank">[ワークショップ] 自分の所有するものを記録するホームページを作る の 詳細</a><br/>
+            <a href="https://creative-community.space/map/heard/bnaaltermuseum/" target="_blank">[デジタル地図] 私（わたしたち）がBnA Alter Museumの周りで聞いた言葉</a>
+        </p>
+
     </ol>
 
     <script src="index.js"></script>
