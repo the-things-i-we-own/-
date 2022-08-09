@@ -249,7 +249,7 @@ fclose($fp);
         
         .collection .org {
             min-height:100%;
-            overflow: auto;
+            overflow: scroll;
         }
         
         .collection {
