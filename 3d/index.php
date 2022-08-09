@@ -209,7 +209,7 @@ fclose($fp);
         
         header marquee:hover {
             color: #fff;
-            background: var(--bg-color);
+            background: #aaa;
         }
         
         header,
