@@ -139,15 +139,6 @@ fclose($fp);
     <p id="infomation">
         <u><span class="pehu">∧°┐</span> が 所有するもの</u><br/>
         <sup>※ カバービジュアルに掲載したものに加えて、ペフの活動を象徴するものをこのリストにコメント付きで掲載します。</sup>
-        <br/>
-        <span class="update cc_style">
-        Last Modified : 
-            <?php
-            $mod = filemtime('collection.csv');
-            date_default_timezone_set('Asia/Tokyo');
-            print "".date("r",$mod);
-            ?>
-        </span>
     </p>
     <ol id="collection" class="org">
         <?php if (!empty($rows)): ?>
