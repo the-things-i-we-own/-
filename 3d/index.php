@@ -143,7 +143,7 @@ fclose($fp);
         }
         
         #cover {
-            background-image: url("logo.png");
+            background-image: url("");
             background-position: center;
             background-size: auto 100%;
             background-repeat: no-repeat;
