@@ -259,7 +259,6 @@ fclose($fp);
         #footer,
         .mousedragscrollable,
         .change #cover,
-        .change #sign,
         .change #greeting,
         .change #server,
         #print {
