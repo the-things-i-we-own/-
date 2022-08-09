@@ -65,7 +65,6 @@ fclose($fp);
             --text-color: #111;
             --hover-color: #ccc;
             --border-style: 1px dashed #ccc;
-            --bg-color: #eee;
             --list-bg: #fff;
             --list-text: #111;
             --org-text: #111;
@@ -106,6 +105,7 @@ fclose($fp);
         #about {
             width: 35rem;
             max-width: 95%;
+            overflow: scroll;
         }
 
         #img {
@@ -201,10 +201,6 @@ fclose($fp);
         #collection li {
             color: var(--text-color);
         }
-
-        #main {
-            background-color: var(--bg-color);
-        }
         
         ._more,
         header label,
@@ -214,7 +210,7 @@ fclose($fp);
         
         header marquee:hover {
             color: #fff;
-            background: var(--bg-color);
+            background: #aaa;
         }
         
         header,
@@ -233,6 +229,16 @@ fclose($fp);
             cursor: pointer;
         }
         
+        #sign {
+            position: absolute;
+            z-index:-1;
+            top:0;
+            left:0;
+            width:100%;
+            height:100%;
+        }
+        
+        #sign .bg,
         #main {
             min-height: 77.5vh;
             max-height: 77.5vh;
@@ -267,6 +273,7 @@ fclose($fp);
             #images .list_item {
                 margin: 1.75vh 0;
             }
+            #sign .bg,
             #main {
                 min-height: 77.5vh;
                 max-height: 77.5vh;
@@ -280,6 +287,7 @@ fclose($fp);
             #images .list_item {
                 margin: 1.25vh 0;
             }
+            #sign .bg,
             #main {
                 min-height: 75vh;
                 max-height: 75vh;
@@ -307,6 +315,7 @@ fclose($fp);
             #greeting p {
                 font-size: 1rem;
             }
+            #sign .bg,
             #main {
                 min-height: 87vh;
                 max-height: 87vh;
@@ -355,6 +364,7 @@ fclose($fp);
     </header>
 
     <main id="main">
+        <div id="sign"></div>
         <div id="cover">
             <ol id="images" class="org">
                 <?php if (!empty($rows)): ?>
@@ -440,6 +450,7 @@ fclose($fp);
             $("#two").load("0814/index.php");
             $("#three").load("0815/index.php");
             $("#four").load("0816/index.php");
+            $("#sign").load("/sign/bnaaltermuseum/background.php");
         })
     </script>
 </body>
