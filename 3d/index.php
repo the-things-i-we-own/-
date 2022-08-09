@@ -249,7 +249,6 @@ fclose($fp);
         
         .collection .org {
             min-height:100%;
-            overflow: scroll;
         }
         
         .collection {
@@ -450,7 +449,6 @@ fclose($fp);
             $("#two").load("0814/index.php");
             $("#three").load("0815/index.php");
             $("#four").load("0816/index.php");
-            $("#sign").load("/sign/bnaaltermuseum/background.php");
         })
     </script>
 </body>
