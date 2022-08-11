@@ -192,6 +192,14 @@ fclose($fp);
             }
         }
 
+        .org .check:before {
+            content:'✓';
+            color:red;
+            position:absolute;
+            top:1rem;
+            left:1rem;
+        }
+
         body,
         ._more:hover,
         header label:hover,
