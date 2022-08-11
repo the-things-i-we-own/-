@@ -202,6 +202,10 @@ fclose($fp);
             font-size:2rem;
         }
 
+        .org .check {
+            color:#ccc;
+        }
+
         body,
         ._more:hover,
         header label:hover,
