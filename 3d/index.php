@@ -199,7 +199,7 @@ fclose($fp);
             z-index:100;
             top:1rem;
             left:1rem;
-            font-size:2rem;
+            font-size:2.5rem;
         }
 
         .org .check {
