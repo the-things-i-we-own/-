@@ -196,8 +196,10 @@ fclose($fp);
             content:'✓';
             color:red;
             position:absolute;
+            z-index:100;
             top:1rem;
             left:1rem;
+            font-size:2rem;
         }
 
         body,
