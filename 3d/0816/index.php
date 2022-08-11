@@ -5,11 +5,12 @@ function h($str) {
 $org = (string)filter_input(INPUT_POST, 'org');
 $name = (string)filter_input(INPUT_POST, 'name');
 $text = (string)filter_input(INPUT_POST, 'text');
+$done = (string)filter_input(INPUT_POST, 'done');
 
 $fp = fopen('list.csv', 'a+b');
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     flock($fp, LOCK_EX);
-    fputcsv($fp, [$org, $name, $text]);
+    fputcsv($fp, [$org, $name, $text, $done]);
     rewind($fp);
 }
 
@@ -89,7 +90,7 @@ fclose($fp);
         </p>
         <?php if (!empty($rows)): ?>
         <?php foreach ($rows as $row): ?>
-        <li class="list_item list_toggle" data-org="<?=h($row[0])?>">
+        <li class="list_item list_toggle <?=h($row[3])?>" data-org="<?=h($row[0])?>">
             <p>
                 <u><?=h($row[0])?></u>
                 <b><?=h($row[1])?></b>
