@@ -203,7 +203,7 @@ fclose($fp);
         }
 
         .org .check {
-            color:#ccc;
+            color:#eee;
         }
 
         body,
