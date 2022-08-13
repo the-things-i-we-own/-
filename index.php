@@ -157,13 +157,26 @@ fclose($fp);
         }
         
         .collection .popup::before {
+            content:'in 3D';
+            color: red;
+        }
+        
+        .collection .sold::before {
+            content:'out of stock';
+        }
+        
+        .collection .sold {
+            color: #aaa;
+        }
+        
+        .collection .sold::before,
+        .collection .popup::before {
             position: absolute;
             z-index: 3;
             display: inline-block;
             top: 0.5rem;
             left: 1rem;
             content:'in 3D';
-            color: red;
             font-size: 0.75rem;
             border: solid 1px;
             padding: 0.25rem;
