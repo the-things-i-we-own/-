@@ -176,7 +176,6 @@ fclose($fp);
             display: inline-block;
             top: 0.5rem;
             left: 1rem;
-            content:'in 3D';
             font-size: 0.75rem;
             border: solid 1px;
             padding: 0.25rem;
