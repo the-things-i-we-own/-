@@ -79,7 +79,8 @@ fclose($fp);
 
 <body>
     <ol class="org">
-        <h2>搬出：2022年8月22日(月)</h2>
+        <h2>搬出</h2>
+        <p>2022年8月22日(月)</p>
         <p class="update">
         Last Modified : 
             <?php
