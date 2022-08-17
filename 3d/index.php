@@ -237,6 +237,15 @@ fclose($fp);
             border-top: var(--border-style);
         }
         
+        @font-face {
+            font-family: "MS Mincho";
+            src: url("https://creative-community.space/coding/fontbook/family/MS%20Mincho.ttf");
+        }
+
+        .pehu {
+            font-family: "MS Mincho", "SimSong", serif;
+        }
+        
         ._more:hover,
         header label:hover,
         footer a:hover {
@@ -344,7 +353,7 @@ fclose($fp);
     <header id="header">
         <a class="_more" onclick="more()">令和四年版　夏の自由研究</a>
         <marquee id="marquee">
-            ここをクリックすると、令和四年版　夏の自由研究の予定表が表示されます。
+            ここをクリックすると、<span class="pehu">∧°┐</span> が BnA Alter Museum に滞在し、作業する日程表が表示されます。
         </marquee>
         <nav id="nav">
             <h1>The Things I (We) Own, in 3D</h1>
