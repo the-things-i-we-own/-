@@ -9,10 +9,6 @@ function more() {
     $("#header marquee").html(Index[Math.floor(Math.random() * Index.length)]);
 }
 
-function greeting() {
-    $("#greeting #text").html(Index);
-}
-
 var volume;
 var synth;
 var notes;

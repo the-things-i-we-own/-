@@ -6,10 +6,6 @@ var Greeting = [
     "ビーエヌエーオルターミュージアムの周りで聞いた言葉を集めた地図を作る　｜　など"
 ]
 
-function more() {
-    $("#header marquee").html(Index[Math.floor(Math.random() * Greeting.length)]);
-}
-
 function greeting() {
     $("#greeting #text").html(Greeting);
 }
