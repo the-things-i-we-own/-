@@ -98,8 +98,6 @@ fclose($fp);
         <h2>2022年8月13日(土) - 16日(火)</h2>
         <p>∧° ┐が BnA Alter Museum に滞在し、夏の自由研究を実施しました。</p>
         <hr/>
-        <p><b>ページを右にスクロールすると、日毎のスケジュールが表示されます。</b></p>
-        <br/>
         <?php if (!empty($rows)): ?>
         <?php foreach ($rows as $row): ?>
         <li class="list_item list_toggle" data-org="<?=h($row[0])?>">
