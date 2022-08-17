@@ -32,9 +32,10 @@ fclose($fp);
     <script src="index.js"></script>
     <style>
 
-        .org {
+        #end {
             position: relative;
             color: var(--list-text);
+            background:transparent;
         }
 
         .org h2 {
@@ -95,7 +96,7 @@ fclose($fp);
 </head>
 
 <body>
-    <ol class="org">
+    <ol class="org" id="end">
         <h2>搬出</h2>
         <p>2022年8月22日(月) - 8月23日(火)</p>
         <hr/>
