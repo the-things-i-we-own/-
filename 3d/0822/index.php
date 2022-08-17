@@ -92,13 +92,6 @@ fclose($fp);
         </li>
         <?php endforeach; ?>
         <?php else: ?>
-        <li class="list_item list_toggle" data-org="test">
-            <p>
-                <u>品種</u>
-                <b>品目</b>
-            </p>
-            <p>説明文</p>
-        </li>
         <?php endif; ?>
     </ol>
 </body>
