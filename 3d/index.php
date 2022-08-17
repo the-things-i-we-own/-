@@ -342,14 +342,14 @@ fclose($fp);
 <body id="open">
 
     <header id="header">
-        <a class="_more" onclick="more()">The Things I (We) Own, in 3D</a>
+        <a class="_more" onclick="more()">令和四年版　夏の自由研究</a>
         <marquee id="marquee">
             ここをクリックすると、令和四年版　夏の自由研究の予定表が表示されます。
         </marquee>
         <nav id="nav">
-            <h1>令和四年版　夏の自由研究</h1>
+            <h1>The Things I (We) Own, in 3D</h1>
             <span id="presents">
-                <img src="https://creative-community.space/org/qr.png" width="50rem">
+                <img src="/pehu/org/qr.png" width="50rem">
             </span>
             <form>
                 <ol class="search-box">
@@ -365,6 +365,10 @@ fclose($fp);
                     <li>
                         <input type="radio" name="org" value="map" id="map">
                         <label for="map" class="label">言葉を集める</label>
+                    </li>
+                    <li>
+                        <input type="radio" name="org" value="other" id="other">
+                        <label for="other" class="label">その他</label>
                     </li>
                     <li class="reset">
                         <input type="reset" name="reset" value="View All" class="reset-button label" onclick="greeting()">
