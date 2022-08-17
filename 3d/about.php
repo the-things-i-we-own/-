@@ -117,13 +117,6 @@ fclose($fp);
         </li>
         <?php endforeach; ?>
         <?php else: ?>
-        <li>
-            <p>
-                <u>ORG</u>
-                <b>カテゴリ名</b>
-            </p>
-            <p>カテゴリの説明</p>
-        </li>
         <?php endif; ?>
     </ol>
 
