@@ -414,11 +414,12 @@ fclose($fp);
         </div>
         <ul class="mousedragscrollable">
             <li id="about" class="collection"></li>
+            <li id="fin" class="collection"></li>
+            <li id="bon" class="collection"></li>
             <li id="one" class="collection"></li>
             <li id="two" class="collection"></li>
             <li id="three" class="collection"></li>
             <li id="four" class="collection"></li>
-            <li id="fin" class="collection"></li>
         </ul>
     </main>
 

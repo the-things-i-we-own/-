@@ -97,7 +97,7 @@ fclose($fp);
     <ol id="about" class="org">
         <p>2022.7.23 - 8.21<u>BnA Alter Meuseum</u></p>
         <h2><span class="pehu">∧°┐</span> が 所有するもの in 3D</h2>
-        <a href="https://bnaaltermuseum.com/event/the-things-i-we-own/" target="_blank"><img src="3d/logo.png" width="100%"></a>
+        <a href="https://bnaaltermuseum.com/event/the-things-i-we-own/" target="_blank"><img src="logo.png" width="100%"></a>
         <br/>
         <p>会場：BnA Alter Museum 
         <a href="https://g.page/BnAAlterMuseum?share" target="_blank">Google Map</a>
