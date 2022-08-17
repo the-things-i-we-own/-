@@ -117,8 +117,10 @@ fclose($fp);
             display: block;
         }
 
-        #website:checked~label,
+        #motto:checked~label,
         #org:checked~label,
+        #website:checked~label,
+        #print:checked~label,
         #map:checked~label {
             text-decoration: double underline;
         }
@@ -364,20 +366,24 @@ fclose($fp);
                 <ol class="search-box">
                     <li>プログラム</li>
                     <li>
+                        <input type="radio" name="org" value="motto" id="motto">
+                        <label for="motto" class="label">P E H U is</label>
+                    </li>
+                    <li>
+                        <input type="radio" name="org" value="org" id="org">
+                        <label for="org" class="label">所有するもの</label>
+                    </li>
+                    <li>
                         <input type="radio" name="org" value="website" id="website">
                         <label for="website" class="label">ホームページを作る</label>
                     </li>
                     <li>
-                        <input type="radio" name="org" value="org" id="org">
-                        <label for="org" class="label">箱を装飾する</label>
+                        <input type="radio" name="print" value="print" id="print">
+                        <label for="print" class="label">箱を装飾する</label>
                     </li>
                     <li>
                         <input type="radio" name="org" value="map" id="map">
                         <label for="map" class="label">言葉を集める</label>
-                    </li>
-                    <li>
-                        <input type="radio" name="org" value="other" id="other">
-                        <label for="other" class="label">その他</label>
                     </li>
                     <li class="reset">
                         <input type="reset" name="reset" value="View All" class="reset-button label" onclick="greeting()">
