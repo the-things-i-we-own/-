@@ -378,7 +378,7 @@ fclose($fp);
                         <label for="website" class="label">ホームページを作る</label>
                     </li>
                     <li>
-                        <input type="radio" name="print" value="print" id="print">
+                        <input type="radio" name="org" value="print" id="print">
                         <label for="print" class="label">箱を装飾する</label>
                     </li>
                     <li>
