@@ -103,8 +103,7 @@ fclose($fp);
         <a href="https://g.page/BnAAlterMuseum?share" target="_blank">Google Map</a>
         <u>入場無料／会期中無休</u></p>
         <hr/>
-        <h2>スケジュール</h2>
-        <p><span class="pehu">∧°┐</span> が BnA Alter Museum に滞在／作業する日程</p>
+        <h2><span class="pehu">∧°┐</span> が BnA Alter Museum に滞在／作業する日程</h2>
         <br/>
         <?php if (!empty($rows)): ?>
         <?php foreach ($rows as $row): ?>
