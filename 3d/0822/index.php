@@ -80,6 +80,18 @@ fclose($fp);
             color: var(--update-text);
             padding: 0.25rem 1rem 1.25rem;
         }
+        
+        .org .popup::before {
+            position: relative;
+            z-index: 3;
+            display: inline-block;
+            content:'in 3D';
+            color: red;
+            font-size: 0.75rem;
+            border: solid 1px;
+            padding: 0.25rem;
+            border-radius: 0.25rem;
+        }
     </style>
 </head>
 
