@@ -276,10 +276,6 @@ fclose($fp);
             margin: 0.5rem 0;
         }
         
-        .collection .org {
-            min-height:100%;
-        }
-        
         .collection {
             width: 25rem;
             max-width: 75%;
