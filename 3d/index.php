@@ -102,7 +102,8 @@ fclose($fp);
             word-spacing: -.1ch;
         }
         
-        #about {
+        #about,
+        #fin {
             width: 35rem;
             max-width: 95%;
         }
@@ -417,6 +418,7 @@ fclose($fp);
             <li id="two" class="collection"></li>
             <li id="three" class="collection"></li>
             <li id="four" class="collection"></li>
+            <li id="fin" class="collection"></li>
         </ul>
     </main>
 
@@ -460,6 +462,7 @@ fclose($fp);
             $("#two").load("0814/index.php");
             $("#three").load("0815/index.php");
             $("#four").load("0816/index.php");
+            $("#fin").load("0822/index.php");
             $("#sign").load("/sign/bnaaltermuseum/background.php");
         })
     </script>
