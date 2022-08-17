@@ -104,7 +104,7 @@ fclose($fp);
         <u>入場無料／会期中無休</u></p>
         <hr/>
         <h2>スケジュール</h2>
-        <p><span class="pehu">∧°┐</span> が BnA Alter Museum に滞在／作業する日程<</p>
+        <p><span class="pehu">∧°┐</span> が BnA Alter Museum に滞在／作業する日程</p>
         <?php if (!empty($rows)): ?>
         <?php foreach ($rows as $row): ?>
         <li>
