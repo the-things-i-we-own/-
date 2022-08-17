@@ -103,7 +103,7 @@ fclose($fp);
         }
         
         #about,
-        #fin {
+        #bon {
             width: 35rem;
             max-width: 95%;
         }
@@ -166,7 +166,7 @@ fclose($fp);
             margin: 2.5vh 0;
         }
 
-        #about .none,
+        #bon .none,
         #images li:nth-child(n+26) {
             display: none;
         }
@@ -458,11 +458,12 @@ fclose($fp);
 
         $(function() {
             $("#about").load("about.php");
+            $("#fin").load("0822/index.php");
+            $("#bon").load("bon.php");
             $("#one").load("0813/index.php");
             $("#two").load("0814/index.php");
             $("#three").load("0815/index.php");
             $("#four").load("0816/index.php");
-            $("#fin").load("0822/index.php");
             $("#sign").load("/sign/bnaaltermuseum/background.php");
         })
     </script>

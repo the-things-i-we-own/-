@@ -7,7 +7,7 @@ $title = (string)filter_input(INPUT_POST, 'title');
 $text = (string)filter_input(INPUT_POST, 'text');
 $link = (string)filter_input(INPUT_POST, 'link');
 
-$fp = fopen('about.csv', 'a+b');
+$fp = fopen('bon.csv', 'a+b');
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     flock($fp, LOCK_EX);
     fputcsv($fp, [$org, $title, $text,]);
@@ -36,19 +36,19 @@ fclose($fp);
             --about-a: blue;
         }
 
-        #about {
+        #bon {
             position: relative;
             color: var(--text-color);
             background-color: var(--about-bg);
         }
 
-        #about hr {
+        #bon hr {
             margin: 2rem 0 1rem;
             border: none;
             border-bottom: var(--border-style);
         }
 
-        #about h2 {
+        #bon h2 {
             padding: 1rem 1rem 0.25rem;
         }
 
@@ -56,7 +56,7 @@ fclose($fp);
             display:none;
         }
 
-        #about p {
+        #bon p {
             font-size: 0.75rem;
             margin: 0;
             padding: 0.5rem 0.5rem 0.5rem 1rem;
@@ -65,19 +65,19 @@ fclose($fp);
             transform: scale(1, 1.25);
         }
         
-        #about p a {
+        #bon p a {
             display: inline-block;
             margin-left: 0.25rem;
             color: var(--about-a);
             text-decoration: var(--about-decoration);
         }
         
-        #about p b {
+        #bon p b {
             font-size: 150%;
             display: inline-block;
         }
         
-        #about p u {
+        #bon p u {
             float: right;
             text-transform: uppercase;
             font-size: 75%;
@@ -94,16 +94,11 @@ fclose($fp);
 </head>
 
 <body>
-    <ol id="about" class="org">
-        <p>2022.7.23 - 8.21<u>BnA Alter Meuseum</u></p>
-        <h2><span class="pehu">∧°┐</span> が 所有するもの in 3D</h2>
-        <a href="https://bnaaltermuseum.com/event/the-things-i-we-own/" target="_blank"><img src="3d/logo.png" width="100%"></a>
-        <br/>
-        <p>会場：BnA Alter Museum 
-        <a href="https://g.page/BnAAlterMuseum?share" target="_blank">Google Map</a>
-        <u>入場無料／会期中無休</u></p>
+    <ol id="bon" class="org">
+        <h2>令和四年版　夏の自由研究</h2>
+        <p>2022年8月13日(土) - 16日(火)</p>
         <hr/>
-        <p>スケジュール</p>
+        <p>∧° ┐が BnA Alter Museum に滞在し、夏の自由研究を実施しました。</p>
         <?php if (!empty($rows)): ?>
         <?php foreach ($rows as $row): ?>
         <li class="list_item list_toggle" data-org="<?=h($row[0])?>">
@@ -112,6 +107,7 @@ fclose($fp);
                 <b><?=h($row[1])?></b>
             </p>
             <p><?=h($row[2])?>
+            <a class="<?=h($row[4])?>" href="<?=h($row[3])?>" target="_blank">もっと詳しく</a></p>
         </li>
         <?php endforeach; ?>
         <?php else: ?>
