@@ -105,6 +105,7 @@ fclose($fp);
         <hr/>
         <h2>スケジュール</h2>
         <p><span class="pehu">∧°┐</span> が BnA Alter Museum に滞在／作業する日程</p>
+        <br/>
         <?php if (!empty($rows)): ?>
         <?php foreach ($rows as $row): ?>
         <li>
