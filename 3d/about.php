@@ -96,10 +96,9 @@ fclose($fp);
 <body>
     <ol id="about" class="org">
         <h2>2022年8月13日(土) - 16日(火)</h2>
-        <p>∧° ┐が BnA Alter Museum に滞在し、夏の自由研究を実施する</p>
+        <p>∧° ┐が BnA Alter Museum に滞在し、夏の自由研究を実施しました。</p>
         <hr/>
         <p><b>ページを右にスクロールすると、日毎のスケジュールが表示されます。</b></p>
-        <p>※ スケジュールは、予約状況などに応じて日々更新します。</p>
         <br/>
         <?php if (!empty($rows)): ?>
         <?php foreach ($rows as $row): ?>
