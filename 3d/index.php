@@ -27,24 +27,24 @@ fclose($fp);
 <html lang="ja">
 
 <head>
-    <title>令和四年版　夏の自由研究 | The Things I (We) Own, in 3D</title>
+    <title>The Things I (We) Own, in 3D</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="format-detection" content="telephone=no">
     <meta name="author" content="creative-community.space">
-    <meta name="description" content="2022年8月13日(土) - 16日(火) | ∧° ┐が BnA Alter Museum に滞在し、夏の自由研究を実施します。">
+    <meta name="description" content="2022年7月23日(土) - 8月21日(日) | ビーエヌエーオルターミュージアムにて | 入場無料／会期中無休">
 
-    <meta property="og:title" content="令和四年版　夏の自由研究 | The Things I (We) Own, in 3D" />
-    <meta property="og:description" content="2022年8月13日(土) - 16日(火) | ∧° ┐が BnA Alter Museum に滞在し、夏の自由研究を実施します。" />
+    <meta property="og:title" content="The Things I (We) Own, in 3D" />
+    <meta property="og:description" content="2022年7月23日(土) - 8月21日(日) | ビーエヌエーオルターミュージアムにて | 入場無料／会期中無休" />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://creative-community.space/pehu/org/3d/" />
     <meta property="og:site_name" content="creative-community.space" />
-    <meta property="og:image" content="___" />
+    <meta property="og:image" content="logo.png" />
     <meta property="og:locale" content="ja_JP" />
 
-    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:card" content="summary" />
     <meta name="twitter:site" content="@NLC_update" />
-    <meta name="twitter:image" content="___" />
+    <meta name="twitter:image" content="logo.png" />
 
     <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
@@ -353,7 +353,7 @@ fclose($fp);
     <header id="header">
         <a class="_more" onclick="more()">令和四年版　夏の自由研究</a>
         <marquee id="marquee">
-            ここをクリックすると、<span class="pehu">∧°┐</span> が BnA Alter Museum に滞在し、作業する日程表が表示されます。
+            2022年7月23日(土) - 8月21日(日) | ビーエヌエーオルターミュージアムにて | 入場無料／会期中無休
         </marquee>
         <nav id="nav">
             <h1>The Things I (We) Own, in 3D</h1>
