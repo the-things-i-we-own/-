@@ -106,7 +106,7 @@ fclose($fp);
         <p>スケジュール</p>
         <?php if (!empty($rows)): ?>
         <?php foreach ($rows as $row): ?>
-        <li class="list_item list_toggle" data-org="<?=h($row[0])?>">
+        <li>
             <p>
                 <u><?=h($row[0])?></u>
                 <b><?=h($row[1])?></b>
@@ -115,7 +115,7 @@ fclose($fp);
         </li>
         <?php endforeach; ?>
         <?php else: ?>
-        <li class="list_item list_toggle" data-org="test">
+        <li>
             <p>
                 <u>ORG</u>
                 <b>カテゴリ名</b>
