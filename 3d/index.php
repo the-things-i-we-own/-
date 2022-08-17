@@ -104,7 +104,8 @@ fclose($fp);
         }
         
         #about,
-        #bon {
+        #bon,
+        #fin {
             width: 35rem;
             max-width: 95%;
         }
@@ -434,12 +435,13 @@ fclose($fp);
         </div>
         <ul class="mousedragscrollable">
             <li id="about" class="collection"></li>
-            <li id="fin" class="collection"></li>
+            <li id="img" class="collection"></li>
             <li id="bon" class="collection"></li>
             <li id="one" class="collection"></li>
             <li id="two" class="collection"></li>
             <li id="three" class="collection"></li>
             <li id="four" class="collection"></li>
+            <li id="fin" class="collection"></li>
         </ul>
     </main>
 
@@ -479,12 +481,13 @@ fclose($fp);
 
         $(function() {
             $("#about").load("about.php");
-            $("#fin").load("0822/index.php");
+            $("#img").load("img.php");
             $("#bon").load("bon.php");
             $("#one").load("0813/index.php");
             $("#two").load("0814/index.php");
             $("#three").load("0815/index.php");
             $("#four").load("0816/index.php");
+            $("#fin").load("0822/index.php");
             $("#sign").load("/sign/bnaaltermuseum/background.php");
         })
     </script>

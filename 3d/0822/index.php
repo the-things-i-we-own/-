@@ -35,7 +35,6 @@ fclose($fp);
         .org {
             position: relative;
             color: var(--list-text);
-            background-color: var(--list-bg);
         }
 
         .org h2 {
