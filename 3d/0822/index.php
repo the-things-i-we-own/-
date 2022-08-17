@@ -51,6 +51,12 @@ fclose($fp);
             transform: scale(1, 1.25);
         }
 
+        .org hr {
+            margin: 2rem 0 1rem;
+            border: none;
+            border-bottom: var(--border-style);
+        }
+
         .org p b {
             font-size: 150%;
             display: inline-block;
