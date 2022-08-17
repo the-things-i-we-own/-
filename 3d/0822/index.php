@@ -79,15 +79,8 @@ fclose($fp);
 
 <body>
     <ol class="org">
-        <h2><sup><u>2022年8月22日(月)</u></sup><br>搬出</h2>
-        <p class="update">
-        Last Modified : 
-            <?php
-            $mod = filemtime('list.csv');
-            date_default_timezone_set('Asia/Tokyo');
-            print "".date("r",$mod);
-            ?>
-        </p>
+        <h2>搬出</h2>
+        <p><sup><u>2022年8月22日(月)</u></sup></p>
         <?php if (!empty($rows)): ?>
         <?php foreach ($rows as $row): ?>
         <li class="list_item list_toggle <?=h($row[3])?>" data-org="<?=h($row[0])?>">
