@@ -99,9 +99,9 @@ fclose($fp);
         <h2><span class="pehu">∧°┐</span> が 所有するもの in 3D</h2>
         <a href="https://bnaaltermuseum.com/event/the-things-i-we-own/" target="_blank"><img src="logo.png" width="100%"></a>
         <br/>
-        <p>会場：BnA Alter Museum 
-        <a href="https://g.page/BnAAlterMuseum?share" target="_blank">Google Map</a>
-        <u>入場無料／会期中無休</u></p>
+        <p><u>入場無料／会期中無休</u>
+        会場：BnA Alter Museum 
+        <a href="https://g.page/BnAAlterMuseum?share" target="_blank">Google Map</a></p>
         <hr/>
         <?php if (!empty($rows)): ?>
         <?php foreach ($rows as $row): ?>
