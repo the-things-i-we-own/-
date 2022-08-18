@@ -53,11 +53,9 @@ fclose($fp);
     <script src="https://creative-community.space/coding/js/tone/jquery-ui.min.js"></script>
     <script src="https://creative-community.space/coding/js/tone/Tone.min.js"></script>
     <script src="https://creative-community.space/coding/js/tone/StartAudioContext.js"></script>
+    <script src="https://creative-community.space/org/searchBox.js"></script>
 
-    <script src="/org/searchBox.js"></script>
-    <script src="3d.js"></script>
-
-    <link rel="icon" href="3d/logo.png">
+    <link rel="icon" href="qr.png">
     <link rel="stylesheet" href="/org/cover.css" />
     <link rel="stylesheet" href="/org/index.css" />
     <link rel="stylesheet" href="/org/searchBox.css" />
