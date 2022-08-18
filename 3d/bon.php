@@ -98,7 +98,7 @@ fclose($fp);
         <h2>令和四年版　夏の自由研究</h2>
         <p>2022年8月13日(土) - 16日(火)</p>
         <hr/>
-        <p>∧° ┐が BnA Alter Museum に滞在し、夏の自由研究を実施しました。</p>
+        <p>∧° ┐が BnA Alter Museum に滞在し、夏の自由研究を実施</p>
         <?php if (!empty($rows)): ?>
         <?php foreach ($rows as $row): ?>
         <li class="list_item list_toggle" data-org="<?=h($row[0])?>">
