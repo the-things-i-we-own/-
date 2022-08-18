@@ -109,18 +109,6 @@ fclose($fp);
         <br/>
         <hr/>
         <br/>
-        <h2>The Things I (We) Own</h2>
-        <p>私（わたしたち）が所有する 機材・機器、日用品、道具・工具、什器 などのものを記録する</p>
-        <p><a href="https://creative-community.space/org/" target="_blank">creative-community.space/org/</a></p>
-        <br/>
-        <hr/>
-        <br/>
-        <h2>P E H U is</h2>
-        <p>P E H U から始まるペフに似合う言葉を集める</p>
-        <p><a href="https://creative-community.space/pehu/motto/" target="_blank">creative-community.space/pehu/motto/</a></p>
-        <br/>
-        <hr/>
-        <br/>
         <h2><span class="pehu">∧°┐</span> が 所有するもの in 3D</h2>
         <p>2022.7.23 - 8.21</p>
         <p>ペフが所有する全てのもの（デジタル／フィジカル・新品／中古・制作物／販売品／非売品）を、発表／展示／販売する | 大切にしたいものを所有する・所有するものを大切にする</p>
