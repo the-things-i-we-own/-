@@ -109,9 +109,9 @@ fclose($fp);
         <br/>
         <hr/>
         <br/>
-        <h2><span class="pehu">∧°┐</span> が 所有するもの in 3D</h2>
+        <h2>The Things I (We) Own, in 3D</h2>
         <p>2022.7.23 - 8.21</p>
-        <p>ペフが所有する全てのもの（デジタル／フィジカル・新品／中古・制作物／販売品／非売品）を、発表／展示／販売する | 大切にしたいものを所有する・所有するものを大切にする</p>
+        <p><span class="pehu">∧°┐</span> が所有する全てのもの（デジタル／フィジカル・新品／中古・制作物／販売品／非売品）を、発表／展示／販売する | 大切にしたいものを所有する・所有するものを大切にする</p>
         <p><a href="https://creative-community.space/pehu/org/3d/" target="_blank">creative-community.space/pehu/org/3d/</a></p>
         <br/>
     </ol>
