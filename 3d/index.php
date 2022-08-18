@@ -368,6 +368,10 @@ fclose($fp);
                 <ol class="search-box">
                     <li>プログラム</li>
                     <li>
+                        <input type="radio" name="org" value="sale" id="sale">
+                        <label for="sale" class="label">in 3D</label>
+                    </li>
+                    <li>
                         <input type="radio" name="org" value="motto" id="motto">
                         <label for="motto" class="label">P E H U is</label>
                     </li>
