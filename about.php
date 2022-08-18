@@ -94,7 +94,6 @@ fclose($fp);
         <hr/>
         <p>右にスクロールし閲覧できるすべてのリスト内の項目は、統一のカテゴリーによって絞り込むことができます。</p>
         <p><i>リスト内の品目を絞り込むカテゴリーについて</i></p>
-        <br/>
         <?php if (!empty($rows)): ?>
         <?php foreach ($rows as $row): ?>
         <li class="list_item list_toggle" data-org="<?=h($row[0])?>">
