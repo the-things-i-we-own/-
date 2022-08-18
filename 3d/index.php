@@ -119,11 +119,7 @@ fclose($fp);
             display: block;
         }
 
-        #motto:checked~label,
-        #org:checked~label,
-        #website:checked~label,
-        #print:checked~label,
-        #map:checked~label {
+        input:checked~label {
             text-decoration: double underline;
         }
         
