@@ -356,7 +356,6 @@ fclose($fp);
 <body id="open">
 
     <header id="header">
-        <a class="_more" onclick="more()"><span class="pehu">∧°┐</span> が 所有するもの in 3D</a>
         <marquee id="marquee" onclick="about()">
             ここをクリックすると、<span class="pehu">∧°┐</span> が 所有するもの一覧が表示されます。
         </marquee>
@@ -507,11 +506,6 @@ fclose($fp);
         });
 
     $("#marquee").click(function(e) {
-        let randNote = Math.floor(Math.random() * notes.length);
-        synth.triggerAttackRelease(notes[randNote], "1");
-    });
-
-    $("._more").click(function(e) {
         let randNote = Math.floor(Math.random() * notes.length);
         synth.triggerAttackRelease(notes[randNote], "1");
     });
