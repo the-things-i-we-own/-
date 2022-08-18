@@ -368,10 +368,6 @@ fclose($fp);
                 <ol class="search-box">
                     <li>プログラム</li>
                     <li>
-                        <input type="radio" name="org" value="sale" id="sale">
-                        <label for="sale" class="label">in 3D</label>
-                    </li>
-                    <li>
                         <input type="radio" name="org" value="motto" id="motto">
                         <label for="motto" class="label">P E H U is</label>
                     </li>
@@ -390,6 +386,10 @@ fclose($fp);
                     <li>
                         <input type="radio" name="org" value="map" id="map">
                         <label for="map" class="label">言葉を集める</label>
+                    </li>
+                    <li>
+                        <input type="radio" name="org" value="sale" id="sale">
+                        <label for="sale" class="label">販売物</label>
                     </li>
                     <li class="reset">
                         <input type="reset" name="reset" value="View All" class="reset-button label" onclick="greeting()">
