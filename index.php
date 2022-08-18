@@ -430,10 +430,6 @@ fclose($fp);
         </div>
         <ul class="mousedragscrollable">
             <li id="about" class="collection"></li>
-            <li id="entrance" class="collection"></li>
-            <li id="books" class="collection"></li>
-            <li id="music" class="collection"></li>
-            <li id="fashion" class="collection"></li>
             <li id="otobuilding" class="collection"></li>
             <li id="nishitemma" class="collection"></li>
             <li id="niceshopsu" class="collection"></li>
@@ -477,10 +473,6 @@ fclose($fp);
 
     $(function() {
         $("#about").load("about.php");
-        $("#entrance").load("3d/entrance.php");
-        $("#books").load("3d/books.php");
-        $("#fashion").load("3d/fashion.php");
-        $("#music").load("3d/music.php");
         $("#img").load("collection.php");
         $("#otobuilding").load("otobuilding/list.php");
         $("#nishitemma").load("nishitemma/list.php");

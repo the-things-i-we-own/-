@@ -109,6 +109,11 @@ fclose($fp);
             width: 35rem;
             max-width: 95%;
         }
+
+        #img {
+            width: 55rem;
+            max-width: 75%;
+        }
         
         .change .mousedragscrollable {
             display: block;
@@ -279,6 +284,10 @@ fclose($fp);
         .change #server,
         #print {
             display: none;
+        }
+        
+        .collection .sold::before {
+            content:'out of stock';
         }
         
         @media screen and (max-width: 1250px) {
