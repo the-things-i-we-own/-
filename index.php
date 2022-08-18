@@ -182,7 +182,6 @@ fclose($fp);
         }
         
         #cover {
-            background-image: url("3d/logo.png");
             background-position: center;
             background-size: auto 100%;
             background-repeat: no-repeat;
@@ -481,7 +480,7 @@ fclose($fp);
     });
 
     $(function() {
-        $("#about").load("3d.html");
+        $("#about").load("about.php");
         $("#entrance").load("3d/entrance.php");
         $("#books").load("3d/books.php");
         $("#fashion").load("3d/fashion.php");
