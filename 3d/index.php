@@ -109,11 +109,6 @@ fclose($fp);
             width: 35rem;
             max-width: 95%;
         }
-
-        #img {
-            width: 55rem;
-            max-width: 75%;
-        }
         
         .change .mousedragscrollable {
             display: block;
@@ -427,7 +422,10 @@ fclose($fp);
         </div>
         <ul class="mousedragscrollable">
             <li id="about" class="collection"></li>
-            <li id="img" class="collection"></li>
+            <li id="entrance" class="collection"></li>
+            <li id="books" class="collection"></li>
+            <li id="music" class="collection"></li>
+            <li id="fashion" class="collection"></li>
             <li id="bon" class="collection"></li>
             <li id="one" class="collection"></li>
             <li id="two" class="collection"></li>
@@ -473,7 +471,10 @@ fclose($fp);
 
         $(function() {
             $("#about").load("about.php");
-            $("#img").load("img.php");
+            $("#entrance").load("entrance.php");
+            $("#books").load("books.php");
+            $("#fashion").load("fashion.php");
+            $("#music").load("music.php");
             $("#bon").load("bon.php");
             $("#one").load("0813/index.php");
             $("#two").load("0814/index.php");
