@@ -5,8 +5,8 @@ org,2,単管作業台・奥のコンテナ系をバー部分に移動,popup
 motto,3,スクリーン印刷系片付け (白ダンボール大),popup
 org,4,機材系片付け (URとKAHMを分別して片付ける),popup
 org,12:00 - 14:00,作品・商品を片付ける,popup
-org,1,ペフ出版物（トランク）,popup
-org,在庫数確認,CSVファイルの popup 部分を最終在庫数に書き換える | フロント売上票と照らし合わせる,popup
+sale,1,ペフ出版物（トランク）,popup
+sale,在庫数確認,CSVファイルの popup 部分を最終在庫数に書き換える | フロント売上票と照らし合わせる,popup
 org,2,ペフ所蔵作品（UR BOX）,popup
 org,3,コイン（KAHM BOX）,popup
 other,14:00,中抜け | 中尾香織,
@@ -15,11 +15,11 @@ other,11:00 - 18:00,足場を組む | 担当:TK,
 other,1,吹き抜け2F撮影,
 motto,2,P E H U is (私物 → 白ダンボール小),popup
 org,3,ポスター類 (UR アタッシュケース・筒ダンボール) 玩具系 (UR BOX) 壊れたもの・記録資料 (KAHM BOX),popup
-org,,コンテナに商品を片付ける | ささじま,popup
+sale,,コンテナに商品を片付ける | ささじま,popup
 org,1,私物サンプルカセット（棚上のカセットBOX）,popup
-org,2,販売用カセット（試聴機横カセットBOX）,popup
-org,3,その他販売物・私物（トラスココンテナ）,popup
-org,在庫数確認,CSVファイルの popup 部分を最終在庫数に書き換える | フロント売上票と照らし合わせる,popup
+sale,2,販売用カセット（試聴機横カセットBOX）,popup
+sale,3,その他販売物・私物（トラスココンテナ）,popup
+sale,在庫数確認,CSVファイルの popup 部分を最終在庫数に書き換える | フロント売上票と照らし合わせる,popup
 other,最終チェック,掃除・忘れ物チェック,
 org,1,ディスプレイ・スティックPCx2 マウスx1 キーボードx1 撤収(UR/KAHM BOX),popup
 org,2,試聴機撤収,popup
