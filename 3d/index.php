@@ -389,7 +389,7 @@ fclose($fp);
                     </li>
                     <li>
                         <input type="radio" name="org" value="sale" id="sale">
-                        <label for="sale" class="label">販売物</label>
+                        <label for="sale" class="label">ポップアップ</label>
                     </li>
                     <li class="reset">
                         <input type="reset" name="reset" value="View All" class="reset-button label" onclick="greeting()">
