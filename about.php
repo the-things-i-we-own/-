@@ -27,7 +27,7 @@ fclose($fp);
 <html lang="ja">
 
 <head>
-    <title>About | The Things ∧° ┐ Own</title>
+    <title>The Things ∧° ┐ Own</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="/org/index.css" />
@@ -92,7 +92,7 @@ fclose($fp);
         <h2><span class="pehu">∧°┐</span> が 所有するもの</h2>
         <p>このページに、∧° ┐ が 所有するもの（出版物・制作物、ウェブドメイン・デジタルツール、メディアファイルなど）を、記録します。</p>
         <hr/>
-        <p>左にスワイプし閲覧できるすべてのリスト内の項目は、統一のカテゴリーによって絞り込むことができます。</p>
+        <p>右にスクロールし閲覧できるすべてのリスト内の項目は、統一のカテゴリーによって絞り込むことができます。</p>
         <p><i>リスト内の品目を絞り込むカテゴリーについて</i></p>
         <br/>
         <?php if (!empty($rows)): ?>
@@ -106,17 +106,14 @@ fclose($fp);
         </li>
         <?php endforeach; ?>
         <?php else: ?>
-        <li class="list_item list_toggle" data-org="test">
-            <p>Title</p>
-        </li>
         <?php endif; ?>
         <hr/>
         <br/>
         <h2><span class="pehu">∧°┐</span> が 所有するもの in 3D</h2>
         <p>2022.7.23 - 8.21</p>
-        <p>このページに記録したリストのうち、<span class="popup"></span> の 表記があるものを、BnA Alter Meuseum で 展示・販売しています。</p>
+        <p>このページに記録したリストのうち、<span class="popup"></span> の 表記があるものを、BnA Alter Meuseum で 展示・販売</p>
         <br/>
-        <p>詳細 : <a href="https://bnaaltermuseum.com/event/the-things-i-we-own/" target="_blank">https://bnaaltermuseum.com/event/the-things-i-we-own/</a></p>
+        <p><a href="https://creative-community.space/pehu/org/3d/" target="_blank">The Things I (We) Own, in 3D</a></p>
 
     </ol>
 
