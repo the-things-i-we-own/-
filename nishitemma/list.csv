@@ -11,13 +11,13 @@ sale,GL-1022 1口ビールセットDX5客,Galaxy,"[KAHM] グラス/ホルダー/
 sale,GL-1075 アイスコーヒーメーカー/グラスセット5客,Galaxy,"[KAHM] アイスコーヒーメーカー/グラス/ホルダー/コースター, 1set 300yen",
 other,御見積書,Document,"[KAHM-bx1] 神崎ガスセンター, 2019",
 other,PayPay,Payment/Document/Stickers,"[KAHM-bx1] 2019",
-made,クラフト封筒,Envelope,"[UR-4.5-WW] ペフ専用フライヤー送付クラフト封筒, 2019",
+made,クラフト封筒,Stationery,"[UR-4.5-WW] ペフ専用フライヤー送付クラフト封筒, 2019",
 collaborations,雪の跡,Document,"[KAHM-bx2] アート／ブックのとても大きな部屋：読む・作る・考える, 2019",
 gift,scent,Stickers,"[KAHM-bx2-f.g] by Josefina Valdés, 2019",
 collaborations,銃を作ろう,Wood,"[KAHM-bx1] by Emilio Algo, Josefina Valdés, お客さん, 2019",
 collaborations,理想の一日,Booklet,"[KAHM-bx2-f.g] by mkt",
 collaborations,靴下端切れクッションx2,Cushion,"[UR-D/4.5] 直径44cm フック付き",
-collaborations,靴下端切れ草履x3,RoomShoes,"[UR-NTbx] by あくちゃん, pal, かおちょ, 2019",popup
+collaborations,靴下端切れ草履x3,Room Shoes,"[UR-NTbx] by あくちゃん, pal, かおちょ, 2019",popup
 collaborations,書道と陶芸,Artworks,"[KAHM-bx1] by JP, VD, お客さん二名, あくちゃん, pal, あっち, まろ, かおちょ, 2019",
 gift,食品サンプル,Figure,"[KAHM-bx1] 目玉焼き,クロックムッシュ by Sammy Stein, 2019",
 gift,髪の毛,Hair,"[KAHM-bx2-f.g] by sammy, vanessa, sevrine, kaori, 2019",
@@ -42,7 +42,7 @@ free,天神祭の手ぬぐい,Necessaries,"[KAHM-bx2] 夏越し大祓(なごし�
 bought,会話トランプ,Hobby,[UR] デザインの参考資料として購入,
 collaborations,Green People,Artworks,"[UR-NTbx] A4プリント, 額装プリント, 名札, L版, 夏越し人形, アルミホイル人形, フェルト, 2019",
 gift,Pomera,Artworks,"[UR-NTbx] by Laurel Schwulst, 2019",popup
-gift,Note Book,Green Things,"[UR-NTbx] by Laurel schwulst, 2019",
+gift,Note Book,Stationery,"[UR-NTbx] by Laurel schwulst, 2019",
 gift,Pon Advertisements,Artworks,"[UR-B2C] by Laurel Schwulst, for Ayami, Ayumi, Kaori, Kazuma, PAL, 2019",popup
 gift,Bell Kiosk,"Stickers/Bells","[UR-NTbx] by Elliot Cost, 2019",
 gift,TNR Writer,Photo Card,"[UR-NTbx] by Elliot Cost, 2019",
@@ -57,5 +57,5 @@ made,A+ A- AA CC K2 X W,Artworks/Website,"[KAHM-bx2] i choose | 質問プレー�
 made,∧°┐ 2019,Booklet,"[KAHM-bx2] Digital Magazine 01 - 13, レシピ集, あっちマンガ, pehu talk, 2019",
 made,∧°┐ 2019 | Special Gift Box,Screen,"[KAHM-bx2] スクリーン版 2019",
 free,公共施設案内,Flyer/Booklet,"[KAHM-bx2-f.1] デュオnetすいた, 大阪祖社会福祉協議会",
-gift,手紙,Letter,"[UR-NTbx] by Christian Oldham",popup
+gift,手紙,Artworks,"[UR-NTbx] by Christian Oldham",popup
 gift,手紙,Letter,"[KAHM-bx2-f.g] by anna, emma, laurel, vanessa, almand, someone",
