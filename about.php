@@ -113,7 +113,7 @@ fclose($fp);
         <p>2022.7.23 - 8.21</p>
         <p>このページに記録したリストのうち、<span class="popup"></span> の 表記があるものを、BnA Alter Meuseum で 展示・販売</p>
         <br/>
-        <p><a href="https://creative-community.space/pehu/org/3d/" target="_blank">The Things I (We) Own, in 3D</a></p>
+        <p><a href="https://creative-community.space/pehu/org/3d/" target="_blank">creative-community.space/pehu/org/3d/</a></p>
 
     </ol>
 
