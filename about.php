@@ -106,6 +106,7 @@ fclose($fp);
         <?php endforeach; ?>
         <?php else: ?>
         <?php endif; ?>
+        <br/>
         <hr/>
         <br/>
         <h2>The Things I (We) Own</h2>
