@@ -62,13 +62,7 @@ fclose($fp);
     <link rel="stylesheet" href="/org/index.css" />
     <link rel="stylesheet" href="/org/searchBox.css" />
     <style>
-        #bought:checked~label,
-        #gift:checked~label,
-        #free:checked~label,
-        #made:checked~label,
-        #collaborations:checked~label,
-        #other:checked~label,
-        #sale:checked~label {
+        input:checked~label {
             text-decoration: double underline;
         }
         
