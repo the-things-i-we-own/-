@@ -290,6 +290,10 @@ fclose($fp);
             content:'out of stock';
         }
         
+        .collection .sold {
+            color: #aaa;
+        }
+        
         @media screen and (max-width: 1250px) {
             #images {
                 top: 45%;
