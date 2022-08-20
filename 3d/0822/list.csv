@@ -10,6 +10,7 @@ sale,1,ペフ出版物（トランク）,popup
 sale,在庫数確認,CSVファイルの popup 部分を最終在庫数に書き換える | フロント売上票と照らし合わせる,popup
 org,2,ペフ所蔵作品（UR BOX）,popup
 org,3,コイン（KAHM BOX）,popup
+org,展示物回収確認,CSVファイルの popup 記載のあるものを回収したら記載を消す
 other,14:00,中抜け | 中尾香織,
 other,with TK,吹き抜け作業,
 other,11:00 - 18:00,足場を組む | 担当:TK,
