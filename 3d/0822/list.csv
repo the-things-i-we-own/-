@@ -1,7 +1,7 @@
 other,10:00,BnA Alter Museum 到着 | 中尾香織,
 org,10:00 - 12:00,吹き抜け部分を空っぽにする 到着 | 中尾香織,
 motto,1,P E H U is 片付け (Summer Collection → UR box | 私物 → 白ダンボール小),popup
-sale,在庫数確認,CSVファイルの popup 部分を最終在庫数に書き換える | フロント売上票と照らし合わせる,popup
+sale,在庫数確認,CSVファイルの popup 部分を最終在庫数に書き換える
 org,2,単管作業台・奥のコンテナ系をバー部分に移動,popup
 motto,3,スクリーン印刷系片付け (白ダンボール大),popup
 org,4,機材系片付け (URとKAHMを分別して片付ける),popup
