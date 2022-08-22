@@ -9,12 +9,12 @@ org,4,機材系片付け (URとKAHMを分別して片付ける),check,
 org,12:00 - 14:00,作品・商品を片付ける,popup
 sale,1,ペフ出版物（トランク）,popup
 sale,在庫数確認,CSVファイルの popup 部分を最終在庫数に書き換える | フロント売上票と照らし合わせる,popup
-org,2,ペフ所蔵作品（UR BOX）,popup
+org,2,ペフ所蔵作品（UR BOX）,check,
 org,3,コイン（KAHM BOX）,popup
 org,展示物回収確認,CSVファイルの popup 記載のあるものを回収したら記載を消す
 other,14:00,中抜け | 中尾香織,
 other,with TK,吹き抜け作業,
-other,11:00 - 18:00,足場を組む | 担当:TK,
+other,11:00 - 18:00,足場を組む | 担当:TK,check,
 other,1,吹き抜け2F撮影,
 motto,2,P E H U is (私物 → 白ダンボール小),check,
 org,3,ポスター類 (UR アタッシュケース・筒ダンボール) 玩具系 (UR BOX) 壊れたもの・記録資料 (KAHM BOX),check,
