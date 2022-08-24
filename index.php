@@ -146,6 +146,26 @@ fclose($fp);
             height: 100%;
             text-indent: -999px;
         }
+        
+        .collection .sold::before {
+            content:'out of stock';
+        }
+        
+        .collection .sold {
+            color: #aaa;
+        }
+        
+        .collection .sold::before {
+            position: absolute;
+            z-index: 3;
+            display: inline-block;
+            top: 0.5rem;
+            left: 1rem;
+            font-size: 0.75rem;
+            border: solid 1px;
+            padding: 0.25rem;
+            border-radius: 0.25rem;
+        }
 
         #img {
             width: 55rem;
