@@ -174,7 +174,7 @@ fclose($fp);
 
     $(".list_toggle").hover(function() {
         let randNote = Math.floor(Math.random() * notes.length);
-        synth.triggerAttackRelease(notes[randNote], "8n");
+        synth.triggerAttackRelease(notes[randNote], "16n");
     });
 </script>
 </body>
