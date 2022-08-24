@@ -40,12 +40,12 @@ fclose($fp);
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://creative-community.space/pehu/org/" />
     <meta property="og:site_name" content="creative-community.space" />
-    <meta property="og:image" content="card.png" />
+    <meta property="og:image" content="https://creative-community.space/pehu/org/card.png" />
     <meta property="og:locale" content="ja_JP" />
 
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:site" content="@NLC_update" />
-    <meta name="twitter:image" content="card.png" />
+    <meta name="twitter:site" content="@pe_hu_"/>
+    <meta name="twitter:image" content="https://creative-community.space/pehu/org/card.png" />
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
@@ -54,6 +54,9 @@ fclose($fp);
     <script src="https://creative-community.space/coding/js/tone/Tone.min.js"></script>
     <script src="https://creative-community.space/coding/js/tone/StartAudioContext.js"></script>
     <script src="https://creative-community.space/org/searchBox.js"></script>
+
+    <link rel="icon" href="https://creative-community.space/pehu/logo.png">
+    <link rel="apple-touch-icon" href="https://creative-community.space/pehu/logo.png">
 
     <link rel="stylesheet" href="/org/cover.css" />
     <link rel="stylesheet" href="/org/index.css" />
