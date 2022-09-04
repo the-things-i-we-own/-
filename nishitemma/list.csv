@@ -1,13 +1,13 @@
 made,西天満カフェ,Document,"[KAHM-bx1] メニュー/メニューPOP/豊子カーテン/会員カード/イベント案内チラシ/レシピ/伝言ノートx2/営業中のぼり/開店祝いプレート, 2019",
-other,カフェファイル,Document,"[KAHM] レシート支払い控え,メモ, 2019",
-other,カフェ資料,Document,"[KAHM] 売上伝票,カフェレシート, 2019",
+other,カフェファイル,Document,"[KAHM-bx1] レシート支払い控え,メモ, 2019",
+other,カフェ資料,Document,"[KAHM-bx1] 売上伝票,カフェレシート, 2019",
 bought,ブンブン,Hobby,"[UR-NTbx] 白色　電池式(単3電池3個) 光る回る音が出る",
 bought,ブンブン2,Hobby,"[UR-NTbx] 黒色　電池式(単3電池3個) 光る回る音が出る",
 bought,ピストル NO:838,Hobby,"[UR-NTbx] 電池式 光る音が出る　黒色",
 bought,GL-1004 オンザロックセット,Galaxy,"[KAHM] アイスペール&トング/グラスx1/コースターx5",
 bought,GL-1005 ティーセット5客,Galaxy,"[KAHM] グラス/ホルダー/コースター",
-sale,GL-1005 ティーセット5客,Galaxy,"[KAHM] グラス/ホルダー/コースター, 1set 300yen",popup
-sale,GL-1022 1口ビールセットDX5客,Galaxy,"[KAHM] グラス/ホルダー/コースター, 1set 300yen",popup
+sale,GL-1005 ティーセット箱のみ,Galaxy,"[KAHM] グラス/ホルダー/コースター, 1set 300yen",popup
+sale,GL-1022 1口ビールセットDX1客・箱のみ,Galaxy,"[KAHM] グラス/ホルダー/コースター, 1set 300yen",popup
 sale,GL-1075 アイスコーヒーメーカー/グラスセット5客,Galaxy,"[KAHM] アイスコーヒーメーカー/グラス/ホルダー/コースター, 1set 300yen",
 other,御見積書,Document,"[KAHM-bx1] 神崎ガスセンター, 2019",
 other,PayPay,Payment/Document/Stickers,"[KAHM-bx1] 2019",
@@ -24,7 +24,7 @@ gift,髪の毛,Hair,"[KAHM-bx2-f.g] by sammy, vanessa, sevrine, kaori, 2019",
 free,工事ライト,Lighting,"[UR-NTbx] ソーラー付き",
 collaborations,月間カフェ会員入会書,Sign,"[KAHM-bx1] by JP, VZ, SB, SS, 2019",
 gift,日仏の友情,Booklet,"[KAHM-bx2] フレンドリーでプロフェッショナルな会議-100%の友達 by Jean-Phillipe-Bretin, 2019",popup
-made,"K PARTY","Flyer/Stickers/Materials","[UR-NTbx] チラシ1種, ステッカー5種,製造物",
+made,"K PARTY","Flyer/Stickers/Materials","[KAHM-bx1] チラシ1種, ステッカー5種,製造物",
 made,Friendly Form Shop Osaka Branch,Artworks,"[KAHM-bx1] by Nick, David, pal, まろ, かおちょ, 2019",
 gift,NS1,Photo Poster,"[UR-B2C] by Nicholas Strobelt, 2019",
 gift,1セント硬貨,Coins,"[UR-NTbx] by Nicholas Strobelt, 2019",popup
@@ -46,9 +46,9 @@ gift,Note Book,Stationery,"[UR-NTbx] by Laurel schwulst, 2019",
 gift,Pon Advertisements,Artworks,"[UR-B2C] by Laurel Schwulst, for Ayami, Ayumi, Kaori, Kazuma, PAL, 2019",
 gift,Bell Kiosk,"Stickers/Bells","[UR-NTbx] by Elliot Cost, 2019",
 gift,TNR Writer,Photo Card,"[UR-NTbx] by Elliot Cost, 2019",
-gift,部屋のための指示,Booklet,"[UR-NTbx] by Laurel schwulst,試作品, 2019",
+gift,部屋のための指示,Booklet,"[KAHM-bx1] by Laurel schwulst,試作品, 2019",
 collaborations,water tasting,Document,"[KAHM-bx2-f.g] by Laurel schwulst, あっち, まろ, かおちょ, 2019",
-collaborations,この部屋での時間のつぶし方,Booklet,"[UR-NTbx] For Fright Simirator Room, 2019",
+collaborations,この部屋での時間のつぶし方,Booklet,"[KAHM-bx1] For Fright Simirator Room, 2019",
 gift,Tongue finishes back at the root of itself,Artworks,"[UR-NTbx] by Ferran Pla | Ana Martinez Fernandez, 2019",
 collaborations,メンバー相関図,Document,"[KAHM-bx2-f.g] by あっち, 2019",
 bought,誕生日占い,Fortune,"[KAHM-bx1] 1月11日/1月22日/3月21日/6月3日/8月11日/12月23日, 2019",
