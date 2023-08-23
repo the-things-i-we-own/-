@@ -1,0 +1,325 @@
+{
+    "id" : "nishitemma",
+    "value" : "2019 | creative, community space",
+  
+    "things" : [
+      {
+        "org" : "made",
+        "name" : "西天満カフェ",
+        "type" : "Document",
+        "description" : "[KAHM-bx1] メニュー/メニューPOP/会員カード/イベント案内チラシ/伝言ノートx2, 2019",
+        "url" : "___"
+      },
+      {
+        "org" : "made",
+        "name" : "フライヤー送付クラフト封筒",
+        "type" : "Stationery",
+        "description" : "[UR-4.5-WW] 2019",
+        "url" : "___"
+      },
+      {
+        "org" : "other",
+        "name" : "ファイル・資料",
+        "type" : "Document",
+        "description" : "[KAHM-bx1] 売上伝票,カフェレシート,レシート支払い控え,メモ",
+        "url" : "___"
+      },
+      {
+        "org" : "other",
+        "name" : "三菱UFJ銀行",
+        "type" : "Bank",
+        "description" : "ペフメインバンク",
+        "url" : "___"
+      },
+      {
+        "org" : "other",
+        "name" : "PayPay銀行",
+        "type" : "Bank",
+        "description" : "電子決済用口座",
+        "url" : "___"
+      },
+      {
+        "org" : "other",
+        "name" : "PayPay QRコード",
+        "type" : "Payment",
+        "description" : "[UR-4.5-WW]",
+        "url" : "___"
+      },
+      {
+        "org" : "other",
+        "name" : "PayPay",
+        "type" : "Document/Stickers",
+        "description" : "[KAHM-bx1] 2019",
+        "url" : "___"
+      },
+      {
+        "org" : "gift",
+        "name" : "Square 磁気カードリーダー",
+        "type" : "Payment",
+        "description" : "[UR-4.5-WW]",
+        "url" : "___"
+      },
+      {
+        "org" : "gift",
+        "name" : "Square Bluetoothカードリーダー",
+        "type" : "Payment",
+        "description" : "[UR-4.5-WW]",
+        "url" : "___"
+      },
+      {
+        "org" : "bought",
+        "name" : "給与支払明細書",
+        "type" : "書類",
+        "description" : "[UR-4.5-WW]",
+        "url" : "___"
+      },
+      {
+        "org" : "other",
+        "name" : "御見積書",
+        "type" : "Document",
+        "description" : "[KAHM-bx1] 神崎ガスセンター, 2019",
+        "url" : "___"
+      },
+      {
+        "org" : "bought",
+        "name" : "営業中のぼり",
+        "type" : "Banner",
+        "description" : "[KAHM-bx1]",
+        "url" : "___"
+      },
+      {
+        "org" : "bought",
+        "name" : "ミニもっち",
+        "type" : "Cooking Tools",
+        "description" : "[KAHM] 餅つき機 | エムケー精工株式会社 RM-05MN",
+        "url" : "___"
+      },
+      {
+        "org" : "bought",
+        "name" : "CAPTAIN STAG M-6482",
+        "type" : "Cooking Tools",
+        "description" : "[UR-E] BBQ用 七輪 炭焼き名人万能水冷式",
+        "url" : "___",
+        "popup" : "Not for Sale"
+      },
+      {
+        "org" : "sale",
+        "name" : "#magicringmakefriendship",
+        "type" : "Magic Ring",
+        "description" : "[Out of Stock] 500yen",
+        "url" : "___",
+        "popup" : "[G-0] sold 17 | stock 0 + Sample"
+      },
+      {
+        "org" : "bought",
+        "name" : "NO:838",
+        "type" : "Hobby",
+        "description" : "[UR-NTbx] 電池式 ピストル 光る音が出る 黒色",
+        "url" : "___"
+      },
+      {
+        "org" : "bought",
+        "name" : "ブンブン",
+        "type" : "Hobby",
+        "description" : "[UR-NTbx] 白色 電池式(単3電池3個) 光る回る音が出る",
+        "url" : "___",
+        "popup" : "Not for Sale"
+      },
+      {
+        "org" : "bought",
+        "name" : "ブンブン2",
+        "type" : "Hobby",
+        "description" : "[UR-NTbx] 黒色 電池式(単3電池3個) 光る回る音が出る",
+        "url" : "___"
+      },
+      {
+        "org" : "bought",
+        "name" : "GL-1004 オンザロックセット",
+        "type" : "Galaxy",
+        "description" : "[KAHM] アイスペール&トング/グラスx1/コースターx5",
+        "url" : "___"
+      },
+      {
+        "org" : "bought",
+        "name" : "GL-1005 ティーセット5客",
+        "type" : "Galaxy",
+        "description" : "[KAHM] グラス/ホルダー/コースター",
+        "url" : "___"
+      },
+      {
+        "org" : "sale",
+        "name" : "GL-1005 ティーセット箱のみ",
+        "type" : "Galaxy",
+        "description" : "[KAHM] グラス/ホルダー/コースター, 1set 300yen",
+        "url" : "___",
+        "popup" : "sold | stock"
+      },
+      {
+        "org" : "sale",
+        "name" : "GL-1022 1口ビールセットDX1客・箱のみ",
+        "type" : "Galaxy",
+        "description" : "[KAHM] グラス/ホルダー/コースター, 1set 300yen",
+        "url" : "___",
+        "popup" : "sold | stock"
+      },
+      {
+        "org" : "sale",
+        "name" : "GL-1075 アイスコーヒーメーカー/グラスセット5客",
+        "type" : "Galaxy",
+        "description" : "[KAHM] アイスコーヒーメーカー/グラス/ホルダー/コースター, 1set 300yen",
+        "url" : "___",
+        "popup" : "sold | stock"
+      },
+      {
+        "org" : "bought",
+        "name" : "キャッシュトレイ",
+        "type" : "Galaxy",
+        "description" : "[UR-4.5-WW]",
+        "url" : "___"
+      },
+      {
+        "org" : "bought",
+        "name" : "CARL MR-2000",
+        "type" : "Payment",
+        "description" : "[UR-4.5-WW] Mini Reji コイン専用コンパクトレジスター",
+        "url" : "___"
+      },
+      {
+        "org" : "bought",
+        "name" : "コインケース",
+        "type" : "Payment",
+        "description" : "[UR-4.5-WW]",
+        "url" : "___"
+      },
+      {
+        "org" : "gift",
+        "name" : "開店祝いプレート",
+        "type" : "Gift",
+        "description" : "[KAHM-bx1]",
+        "url" : "___"
+      },
+      {
+        "org" : "collaborations",
+        "name" : "Sign",
+        "type" : "Song",
+        "description" : "by る・かおちょ・まろ",
+        "url" : "___"
+      },
+      {
+        "org" : "collaborations",
+        "name" : "レシピ",
+        "type" : "Recipe",
+        "description" : "[KAHM-bx1] by れんれん・かおちょ・あっち",
+        "url" : "___"
+      },
+      {
+        "org" : "collaborations",
+        "name" : "豊子",
+        "type" : "Stand",
+        "description" : "[KAHM-bx1] 屋台 by ふなさん | イラスト by あっち",
+        "url" : "___"
+      },
+      {
+        "org" : "collaborations",
+        "name" : "靴下端切れクッションx2",
+        "type" : "Cushion",
+        "description" : "[UR-D/4.5] 直径44cm フック付き",
+        "url" : "___"
+      },
+      {
+        "org" : "collaborations",
+        "name" : "靴下端切れ草履x3",
+        "type" : "Room Shoes",
+        "description" : "[UR-NTbx] by あくちゃん, pal, かおちょ",
+        "url" : "___",
+        "popup" : "Not for Sale"
+      },
+      {
+        "org" : "collaborations",
+        "name" : "K PARTY",
+        "type" : "Flyer/Stickers/Materials",
+        "description" : "[KAHM-bx1] チラシ1種, ステッカー5種, 製造物",
+        "url" : "___"
+      },
+      {
+        "org" : "free",
+        "name" : "防災ヘルメット",
+        "type" : "Emergency",
+        "description" : "[UR-E] 北区赤十字奉仕団",
+        "url" : "___"
+      },
+      {
+        "org" : "free",
+        "name" : "防災ヘルメット",
+        "type" : "Emergency",
+        "description" : "[UR-E] 老３(西天満町内会)",
+        "url" : "___"
+      },
+      {
+        "org" : "free",
+        "name" : "天神祭りうちわ",
+        "type" : "Paper Fan",
+        "description" : "[UR-E] 天神祭り(大阪天満宮)x2",
+        "url" : "___"
+      },
+      {
+        "org" : "free",
+        "name" : "お初天神うちわ",
+        "type" : "Paper Fan",
+        "description" : "[UR-E] お初天神x3",
+        "url" : "___"
+      },
+      {
+        "org" : "free",
+        "name" : "天神祭の手ぬぐい",
+        "type" : "Towel",
+        "description" : "[KAHM-bx2] 夏越し大祓(なごしおおはらえ) 鉾流し神事案内用紙入り",
+        "url" : "___"
+      },
+      {
+        "org" : "collaborations",
+        "name" : "壊れたもの",
+        "type" : "Objects",
+        "description" : "[KAHM-bx1] コップ, ディスプレイ部品, スマホマジックリング, ドアノブ, 泥団子, 壁, 2019",
+        "url" : "___",
+        "popup" : "Not for Sale"
+      },
+      {
+        "org" : "bought",
+        "name" : "誕生日占い",
+        "type" : "Fortune",
+        "description" : "[KAHM-bx1] 1月11日/1月22日/3月21日/6月3日/8月11日/12月23日, 2019",
+        "url" : "___"
+      },
+      {
+        "org" : "collaborations",
+        "name" : "メンバー相関図",
+        "type" : "Document",
+        "description" : "[KAHM-bx2-f.g] by あっち, 2019",
+        "url" : "___"
+      },
+      {
+        "org" : "made",
+        "name" : "A+ A- AA CC K2 X W",
+        "type" : "Artworks",
+        "description" : "[KAHM-bx2] i choose | 質問プレート, おみくじ, CC冊子, Noシール, 2019",
+        "url" : "___"
+      },
+      {
+        "org" : "made",
+        "name" : "i choose",
+        "type" : "Website/Advertisement",
+        "description" : "[UR-B2C] ichoose.pe.hu | ミラーシート・カッティングシート x2, 2019",
+        "url" : "___"
+      },
+      {
+        "org" : "sale",
+        "name" : "31 Questions for daily life",
+        "type" : "Daily Calender",
+        "description" : "[UR-7.5-TK] by ペフ, 700yen, 2020",
+        "url" : "___",
+        "popup" : "[W-1] sold 4 | stock 0"
+      }
+    ]
+  }
+  

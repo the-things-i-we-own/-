@@ -1,0 +1,225 @@
+{
+    "id" : "niceshopsu",
+    "value" : "1F | gallery, community space",
+  
+    "things" : [
+      {
+        "org" : "made",
+        "name" : "vg.pe.hu",
+        "type" : "2014-12-13 18:03",
+        "description" : "Creat a Account of Hostinger",
+        "url" : "https://vg.pe.hu/"
+      },
+      {
+        "org" : "free",
+        "name" : "∧°┐",
+        "type" : "2017",
+        "description" : "I chose the name 'pe.hu' and creat a Logo",
+        "url" : "https://vg.pe.hu/jp/"
+      },
+      {
+        "org" : "gift",
+        "name" : "Untitled",
+        "type" : "Drawing",
+        "description" : "[UR-NTbx] メモ用紙に蛍光ペン/鉛筆x2 by 010001111000, 2016",
+        "url" : "___"
+      },
+      {
+        "org" : "bought",
+        "name" : "希望",
+        "type" : "Artwork",
+        "description" : "[KAHM] by fukin | しあわせ, 2016",
+        "url" : "https://fukin.tumblr.com/sws-2"
+      },
+      {
+        "org" : "sale",
+        "name" : "｣ﾚｨﾉヾ─廾ｽ",
+        "type" : "Finger Band",
+        "description" : "[VG CTLG] Artwork by NANOOK, 500yen",
+        "url" : "___",
+        "popup" : "[G-1] sold 12 | stock 13 + 2 Sample"
+      },
+      {
+        "org" : "bought",
+        "name" : "Kazuki & Rat",
+        "type" : "Papercraft",
+        "description" : "[UR-NTbx] by Kazquiz, 2016",
+        "url" : "https://www.kazquiz.com/kazuki-rat",
+        "popup" : "Not for Sale"
+      },
+      {
+        "org" : "sale",
+        "name" : "ヵ″｣ﾚ┐ィ~ S",
+        "type" : "Tee",
+        "description" : "[VG CTLG] Artwork by Kazquiz, 3000yen",
+        "url" : "___",
+        "popup" : "[G-3] sold 0 | stock 2"
+      },
+      {
+        "org" : "sale",
+        "name" : "ヵ″｣ﾚ┐ィ~ M",
+        "type" : "Tee",
+        "description" : "[VG CTLG] Artwork by Kazquiz, 3000yen",
+        "url" : "___",
+        "popup" : "[G-3] sold 0 | stock 2"
+      },
+      {
+        "org" : "sale",
+        "name" : "ヵ″｣ﾚ┐ィ~ XL",
+        "type" : "Tee",
+        "description" : "[VG CTLG] Artwork by Kazquiz, 3000yen",
+        "url" : "___",
+        "popup" : "[G-3] sold 0 | stock 2 + Sample"
+      },
+      {
+        "org" : "bought",
+        "name" : "ass as sin",
+        "type" : "Drawing",
+        "description" : "[UR-NTbx] by 皆藤齋 | グレー厚紙に鉛筆, 白上質紙にペン, 2016",
+        "url" : "___",
+        "popup" : "Not for Sale"
+      },
+      {
+        "org" : "sale",
+        "name" : "ASS AS SIN - 皆藤齋",
+        "type" : "Zine",
+        "description" : "[VG CTLG] 1000yen, 5qty + Sample",
+        "url" : "___",
+        "popup" : "[Y-1] sold 0 | stock 5"
+      },
+      {
+        "org" : "bought",
+        "name" : "for #29APR17SAT",
+        "type" : "Painting",
+        "description" : "[UR-NTbx] by 沖真秀 | キャンバスに絵の具, 2017",
+        "url" : "___"
+      },
+      {
+        "org" : "gift",
+        "name" : "for #24JUN17SAT",
+        "type" : "Painting",
+        "description" : "[UR-NTbx] by 趙里奈 | キャンバスに絵の具, 2017",
+        "url" : "___"
+      },
+      {
+        "org" : "sale",
+        "name" : "cho rina - 趙里奈",
+        "type" : "Zine",
+        "description" : "[VG CTLG] 500yen, 4qty + Sample",
+        "url" : "___",
+        "popup" : "[Y-2] sold 1 | stock 3"
+      },
+      {
+        "org" : "gift",
+        "name" : "Untitled",
+        "type" : "Painting",
+        "description" : "[UR-NTbx] by 松尾信太郎 | 小作品 8点, 2017",
+        "url" : "___"
+      },
+      {
+        "org" : "gift",
+        "name" : "GOUFFRE",
+        "type" : "Artwork",
+        "description" : "by Alexis Beauclair | ガラス板にリソグラフプリント (GOUFFRE Group Show at レトロ印刷JAM), 2017",
+        "url" : "___"
+      },
+      {
+        "org" : "gift",
+        "name" : "FACES",
+        "type" : "Artwork",
+        "description" : "by Alexis Beauclair | マグネットパズル (FACES/CATACLOP at PANTALOON), 2017",
+        "url" : "___"
+      },
+      {
+        "org" : "other",
+        "name" : "アドレス帳",
+        "type" : "Document",
+        "description" : "[UR-4.5-WW] 漆塗り・ミニサイズ",
+        "url" : "___"
+      },
+      {
+        "org" : "other",
+        "name" : "名刺ケース",
+        "type" : "Document",
+        "description" : "[UR-4.5-WW] 要整理",
+        "url" : "___"
+      },
+      {
+        "org" : "made",
+        "name" : "円卓",
+        "type" : "D.I.Y",
+        "description" : "for community space, 2017",
+        "url" : "___"
+      },
+      {
+        "org" : "collaborations",
+        "name" : "things that i heard in New York",
+        "type" : "Artwork",
+        "description" : "[UR-NTbx] 02 by Sarah Marshall, 2018",
+        "url" : "___"
+      },
+      {
+        "org" : "sale",
+        "name" : "am i - Sarah Marshall",
+        "type" : "Book",
+        "description" : "[VG CTLG] 2000yen",
+        "url" : "___",
+        "popup" : "[Y-b] sold 0 | stock 1 + Sample"
+      },
+      {
+        "org" : "collaborations",
+        "name" : "Nissed",
+        "type" : "Artwork",
+        "description" : "[UR-NTbx] with 松延総司 (CDケース,メモ用紙), 2018",
+        "url" : "___"
+      },
+      {
+        "org" : "sale",
+        "name" : "03",
+        "type" : "DVD-R",
+        "description" : "[VG CTLG] by Takamitsu Ohta, Muku Kobayashi, Shoji Funakawa, Soshi Matsunobe Video/Edit by Reiji Saito, 2000yen",
+        "url" : "https://vg.pe.hu/1f/03/",
+        "popup" : "[W-a] sold 1 | stock 4"
+      },
+      {
+        "org" : "sale",
+        "name" : "04",
+        "type" : "DVD-R",
+        "description" : "[VG CTLG] by エメラルドクリトリス, 2000yen",
+        "url" : "https://vg.pe.hu/1f/04/",
+        "popup" : "[W-b] sold 0 | stock 5"
+      },
+      {
+        "org" : "sale",
+        "name" : "05",
+        "type" : "CD-R + Digital Files",
+        "description" : "[VG CTLG] by woopheadclrms, 1000yen",
+        "url" : "https://vg.pe.hu/1f/05/",
+        "popup" : "[W-c] sold 0 | stock 4"
+      },
+      {
+        "org" : "sale",
+        "name" : "1F",
+        "type" : "Box",
+        "description" : "[VG CTLG] 03 + 04 + 05 and more, 5000yen",
+        "url" : "https://vg.pe.hu/1f/box/",
+        "popup" : "[Storage] sold 0 | stock 4"
+      },
+      {
+        "org" : "bought",
+        "name" : "時計",
+        "type" : "Artwork",
+        "description" : "[UR-NTbx] by 丸目龍介, 2017",
+        "url" : "___"
+      },
+      {
+        "org" : "gift",
+        "name" : "紙製帽子",
+        "type" : "Papercraft",
+        "description" : "[UR-NTbx] by 丸目龍介, 2018",
+        "url" : "___",
+        "popup" : "Not for Sale"
+      }
+    ]
+  }
+  

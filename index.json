@@ -1,0 +1,49 @@
+{
+  "title" : "The Things ∧°┐ Own",
+  "description" : "このページに、ペフが所有するもの（出版物・制作物、所有作品、デジタルコンテンツ、など）を、記録します。",
+  "author" : "creative-community.space",
+  "email" : "pehu@creative-community.space",
+  "type" : "website",
+  "twitter" : "@pe_hu_",
+  "card" : "summary_large_image",
+  "src" : "card.png",
+  "icon" : "3d/logo.png",
+
+  "org" : [
+    {
+      "id" : "bought",
+      "name" : "bought",
+      "info" : "購入したもの、外注して制作したもの、など"
+    },
+    {
+      "id" : "gift",
+      "name" : "gift",
+      "info" : "関わった人たちから頂いたもの、など"
+    },
+    {
+      "id" : "free",
+      "name" : "free or found",
+      "info" : "拾ったもの、無料で配布されていたもの、など"
+    },
+    {
+      "id" : "made",
+      "name" : "made",
+      "info" : "制作物、出来たもの"
+    },
+    {
+      "id" : "collaborations",
+      "name" : "collaborations",
+      "info" : "関わった人たちと一緒に作ったもの"
+    },
+    {
+      "id" : "other",
+      "name" : "other",
+      "info" : "資料や書類など、上記のカテゴリーに当てはまらないもの"
+    },
+    {
+      "id" : "sale",
+      "name" : "$$$ FOR SALE $$$",
+      "info" : "出版物・関わった人たちの販売物、不要になった売りたいもの、など"
+    }
+  ]
+}

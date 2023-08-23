@@ -1,0 +1,50 @@
+{
+    "id" : "open",
+    "value" : "制作・搬入",
+  
+    "things" : [
+      {
+        "org" : "show",
+        "name" : "搬入",
+        "type" : "2022.7.21 - 23",
+        "description" : "ペフが所有するものの一部を吹き抜けに展示"
+      },
+      {
+        "org": "motto",
+        "name": "Summer Collection",
+        "type": "P E H U is",
+        "description": "不要な衣類に、P E H U から始まる言葉をスクリーン印刷して、オリジナルの夏物古着を制作"
+      },
+      {
+        "org" : "print",
+        "name" : "展覧会ロゴ",
+        "type" : "2022.7.24",
+        "description" : "Selpic S1 で、吹き抜けに展覧会タイトルを印刷 | 展覧会ロゴを制作"
+      },
+      {
+        "org" : "print",
+        "name" : "スクリーン版",
+        "type" : "展覧会ロゴ",
+        "description" : "展覧会ロゴ の スクリーン版 を制作"
+      },
+      {
+        "org" : "show",
+        "name" : "販売・在庫管理",
+        "type" : "2022.7.24 - 25",
+        "description" : "出版物など、販売物の陳列 | 在庫管理表を作成"
+      },
+      {
+        "org" : "website",
+        "name" : "∧°┐ が 所有するもの",
+        "type" : "Website",
+        "description" : "ペフが所有する全てのものを記録するウェブサイトを制作"
+      },
+      {
+        "org": "map",
+        "name": "私（わたしたち）が聞いた言葉",
+        "type": "2022.8.13 - 16",
+        "description": "私（わたしたち）がBnA Alter Museumの周りで聞いた言葉を集める"
+      }
+    ]
+  }
+  

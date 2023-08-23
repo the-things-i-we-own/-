@@ -1,0 +1,57 @@
+header {
+  border-bottom: dotted #ddd 1px;
+}
+
+footer {
+  border-top: dotted #ddd 1px;
+}
+
+#things::-webkit-scrollbar-thumb {
+  border-radius: 2rem;
+  background: #ddd;
+}
+
+input[type="button"] {
+  color: #000;
+}
+
+input[type="radio"]+label:hover {
+  text-decoration: #000 underline double;
+}
+
+nav label:not(:first-of-type)::before {
+  content: "|";
+  color: #000;
+  font-weight: 900;
+  margin: 0 0.5rem;
+}
+
+input[type="radio"]:not(:checked)+label {
+  color: #ddd;
+}
+
+@font-face {
+  font-family: "MS Mincho";
+  src: url("https://pe-hu.github.io/ver/font/MSMincho.ttc");
+}
+
+@font-face {
+  font-family: "SimSong";
+  src: url("https://pe-hu.github.io/ver/font/SimSong.ttc");
+}
+
+h1,
+#org label,
+#things {
+  font-family: "MS Mincho", "SimSong", serif;
+  font-weight: 500;
+  font-stretch: condensed;
+  font-variant: common-ligatures tabular-nums;
+}
+
+#things ul u {
+  display: block;
+  border: solid 1px;
+  padding: 0 0.25rem;
+  text-decoration: none;
+}

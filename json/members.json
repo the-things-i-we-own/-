@@ -1,0 +1,22 @@
+{
+    "id" : "membersonly",
+    "value" : "Members Only",
+  
+    "things" : [
+      {
+        "org" : "sale",
+        "name" : "I-O DATA EX-LD321DB x3",
+        "type" : "31.5型 ディスプレイ",
+        "description" : "[KAHM-CL] 広視野角ADSパネル HDMI×2 DisplayPort",
+        "url" : "https://www.iodata.jp/product/lcd/wide/ex-ld321db/"
+      },
+      {
+        "org" : "sale",
+        "name" : "インテル® Compute Stick STCK1A32WFC x3",
+        "type" : "スティック型パソコン",
+        "description" : "[KAHM-CL] Intel Atom® 32GB eMMC/2 GB/32 GB/Windows 10, 32-bit*",
+        "url" : "https://www.intel.co.jp/content/www/jp/ja/products/sku/86612/intel-compute-stick-stck1a32wfc/specifications.html"
+      }
+    ]
+  }
+  

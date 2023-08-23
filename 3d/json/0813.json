@@ -1,0 +1,84 @@
+{
+  "id": "one",
+  "value": "2022年8月13日(土)",
+  "things": [
+    {
+      "org" : "website",
+      "name" : "予約受付終了",
+      "type" : "10:00 - 18:00",
+      "description" : "所有するものを記録するホームページを作る | 担当:ささじまかずま"
+    },
+    {
+      "org" : "map",
+      "name" : "私（わたしたち）が聞いた言葉",
+      "type" : "10:00 - 20:00",
+      "description" : "BnA Alter Museumの周りで聞いた言葉を集める | 1F受付にご提出ください"
+    },
+    {
+      "org" : "show",
+      "name" : "チェックイン",
+      "type" : "10:00",
+      "description" : "BnA Alter Museum 到着"
+    },
+    {
+      "org" : "print",
+      "name" : "所有するものを保管する箱を装飾する",
+      "type" : "10:00 - 12:00",
+      "description" : "担当:中尾香織"
+    },
+    {
+      "org" : "map",
+      "name" : "私（わたしたち）が聞いた言葉",
+      "type" : "12:00 - 13:00",
+      "description" : "休憩 | BnA Alter Museumの周りで聞いた言葉を集める | 担当:中尾香織"
+    },
+    {
+      "org" : "print",
+      "name" : "所有するものを保管する箱を装飾する",
+      "type" : "13:00 - 16:00",
+      "description" : "担当:中尾香織"
+    },
+    {
+      "org" : "map",
+      "name" : "私（わたしたち）が聞いた言葉",
+      "type" : "16:00 - 17:00",
+      "description" : "休憩 | BnA Alter Museumの周りで聞いた言葉を集める | 担当:中尾香織"
+    },
+    {
+      "org" : "print",
+      "name" : "所有するものを保管する箱を装飾する",
+      "type" : "17:00 - 20:00",
+      "description" : "担当:中尾香織"
+    },
+    {
+      "org" : "motto",
+      "name" : "P E H U is | Summer Collection",
+      "type" : "17:00 - 20:00",
+      "description" : "制作 | 担当:中尾香織"
+    },
+    {
+      "org" : "show",
+      "name" : "ポップアップの整理整頓",
+      "type" : "10:00 - 15:00",
+      "description" : "担当:ささじまかずま"
+    },
+    {
+      "org" : "show",
+      "name" : "試聴機の使い方をまとめる",
+      "type" : "15:00 - 18:00",
+      "description" : " 担当:ささじまかずま"
+    },
+    {
+      "org" : "map",
+      "name" : "私（わたしたち）が聞いた言葉",
+      "type" : "18:00 - 20:00",
+      "description" : "休憩（船岡温泉までサイクリング） | BnA Alter Museumの周りで聞いた言葉を集める | 担当:ささじまかずま"
+    },
+    {
+      "org" : "show",
+      "name" : "作業終了",
+      "type" : "20:00",
+      "description" : ""
+    }
+  ]
+}

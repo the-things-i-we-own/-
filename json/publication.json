@@ -1,0 +1,249 @@
+{
+    "id" : "publication",
+    "value" : "New Life Collection",
+  
+    "things" : [
+      {
+        "org" : "made",
+        "name" : "大切にすることを大切にするための本試作品",
+        "type" : "Sample Book",
+        "description" : "[KAHM-bx2] 2019",
+        "url" : "___"
+      },
+      {
+        "org" : "sale",
+        "name" : "大切にすることを大切にするための本",
+        "type" : "Book",
+        "description" : "[UR-7.5-TK] by ペフ, B6/134 pages/Bilingual (Japanese / English), 1500yen, 2019",
+        "url" : "___",
+        "popup" : "[W-5] sold 0 | stock 5"
+      },
+      {
+        "org" : "collaborations",
+        "name" : "理想の一日",
+        "type" : "Zine",
+        "description" : "[KAHM-bx2-f.g] by mkt",
+        "url" : "___"
+      },
+      {
+        "org" : "collaborations",
+        "name" : "夢の見方",
+        "type" : "Poster",
+        "description" : "[UR-B2C] by Ayami Konishi, 2019",
+        "url" : "___"
+      },
+      {
+        "org" : "collaborations",
+        "name" : "夢の見方",
+        "type" : "Booklet",
+        "description" : "[KAHM-bx2] by Ayami Konishi/Kaori Nakao, 2019",
+        "url" : "___"
+      },
+      {
+        "org" : "made",
+        "name" : "Peace for Future",
+        "type" : "Pocket Tissue/Poster",
+        "description" : "[KAHM-bx2] ポケットティッシュ/A3プリント, 2019",
+        "url" : "___"
+      },
+      {
+        "org" : "bought",
+        "name" : "New Life Collection",
+        "type" : "Website",
+        "description" : "newlifecollection.com, 2019 - 2022",
+        "url" : "___"
+      },
+      {
+        "org" : "bought",
+        "name" : "New Life Collection",
+        "type" : "Flag",
+        "description" : "[KAHM-bx2] のぼり, 2020",
+        "url" : "___"
+      },
+      {
+        "org" : "gift",
+        "name" : "New Life Collection",
+        "type" : "Sticker",
+        "description" : "[UR-4.5-WW] http://spc-k.jp/",
+        "url" : "___"
+      },
+      {
+        "org" : "sale",
+        "name" : "Think Note",
+        "type" : "Sticky & Pen",
+        "description" : "[UR-7.5-TK] 500yen, 2020",
+        "url" : "___",
+        "popup" : "[W-4] sold 7 | stock 3 + Sample"
+      },
+      {
+        "org" : "bought",
+        "name" : "わかば試作品",
+        "type" : "Sample Book",
+        "description" : "[KAHM-bx2] 2019",
+        "url" : "___"
+      },
+      {
+        "org" : "sale",
+        "name" : "わかば",
+        "type" : "Book",
+        "description" : "[UR-7.5-TK] B6/88 pages/Bilingual (Japanese / English), 2020",
+        "url" : "___",
+        "popup" : "[W-3] sold 2 | stock 5 + Sample"
+      },
+      {
+        "org" : "sale",
+        "name" : "今でも大切",
+        "type" : "Rolled Label Paper",
+        "description" : "[UR-7.5-TK] 62mm × 2940mm 500yen, 2020",
+        "url" : "___",
+        "popup" : "[W-6] sold 3 | stock 7 + Sample"
+      },
+      {
+        "org" : "sale",
+        "name" : "This USB Card is The Digital Magazine",
+        "type" : "USB Card",
+        "description" : "[UR-7.5-TK] 3500yen, 2020",
+        "url" : "___",
+        "popup" : "[W-2] stock 6 + Sample Book"
+      },
+      {
+        "org" : "made",
+        "name" : "スクリーン版",
+        "type" : "Screen Print",
+        "description" : "[KAHM-bx2] for Special Gift Box, 2019",
+        "url" : "___"
+      },
+      {
+        "org" : "collaborations",
+        "name" : "Only Holy Stories",
+        "type" : "Advertisement",
+        "description" : "[KAHM-bx2] 広告ビジュアル制作メモ, 2020",
+        "url" : "___"
+      },
+      {
+        "org" : "made",
+        "name" : "Christmas 5dition",
+        "type" : "Advent Calendar",
+        "description" : "クリスマスフェア「Only Holy Stories」出品作品, 2020",
+        "url" : "___",
+        "popup" : "sold | stock | Not for Sale"
+      },
+      {
+        "org" : "bought",
+        "name" : "Christmas 5dition",
+        "type" : "Screen Print",
+        "description" : "[KAHM-bx2] 手製木枠スクリーン版, 2020",
+        "url" : "___"
+      },
+      {
+        "org" : "bought",
+        "name" : "ニューライフコレクション",
+        "type" : "Screen Print",
+        "description" : "[KAHM] スクリーン版, 2021",
+        "url" : "___"
+      },
+      {
+        "org" : "bought",
+        "name" : "タイベック製ランチバッグ",
+        "type" : "Bag for iPad",
+        "description" : "[KAHM] ニューライフコレクション, 2021",
+        "url" : "___"
+      },
+      {
+        "org" : "bought",
+        "name" : "防水セカンドバッグ",
+        "type" : "Bag for Payment",
+        "description" : "[UR-4.5-WW] ニューライフコレクション, 2021",
+        "url" : "___"
+      },
+      {
+        "org" : "bought",
+        "name" : "マルシェバッグ(大)",
+        "type" : "Shopping Bag",
+        "description" : "[UR-4.5-WW] ニューライフコレクション, 2021",
+        "url" : "___"
+      },
+      {
+        "org" : "bought",
+        "name" : "マルシェバッグ(小)",
+        "type" : "Shopping Bag",
+        "description" : "[UR-4.5-WW] ニューライフコレクション, 2021",
+        "url" : "___"
+      },
+      {
+        "org" : "bought",
+        "name" : "わかば 春エディション",
+        "type" : "Screen Print",
+        "description" : "[KAHM] スクリーン版, 2021",
+        "url" : "___"
+      },
+      {
+        "org" : "sale",
+        "name" : "わかば 春エディション",
+        "type" : "Book",
+        "description" : "[UR-7.5-TK] 2021",
+        "url" : "___"
+      },
+      {
+        "org" : "made",
+        "name" : "ノートブックx3",
+        "type" : "Book Cover",
+        "description" : "[KAHM-bx2] カバー：和紙/黒い紙/Peace for Future | ノート部：ミスプリント, 2022",
+        "url" : "___",
+        "popup" : "Not for Sale"
+      },
+      {
+        "org" : "made",
+        "name" : "ノートブックx3",
+        "type" : "Book Cover",
+        "description" : "[KAHM-bx2] カバー:Peace Piece/Peace for Future/大切 | ノート部：白い紙, 2022",
+        "url" : "___"
+      },
+      {
+        "org" : "other",
+        "name" : "メモ",
+        "type" : "Document",
+        "description" : "[KAHM-bx2-f.2] ホワイトボードコピー機のメモ, 音ビルでの過ごし方, わかば制作, プレイピースゲーム試作",
+        "url" : "___"
+      },
+      {
+        "org" : "sale",
+        "name" : "大切にすることを大切にするためのギャラリー",
+        "type" : "Gallery",
+        "description" : "[UR-7.5-TK] 65 × 65 × 65 mm(inside: 59 × 59 × 59 mm), 1000yen, 2022",
+        "url" : "___",
+        "popup" : "[W-7] sold 1 | stock 3"
+      },
+      {
+        "org" : "sale",
+        "name" : "わかば 夏エディション",
+        "type" : "Book",
+        "description" : "[UR-7.5-TK] 2022",
+        "url" : "___",
+        "popup" : "4部+S"
+      },
+      {
+        "org" : "sale",
+        "name" : "a daily basis (DIARY)",
+        "type" : "Magnet Sheet",
+        "description" : "[UR-7.5-TK] with Laurel Schwulst, A4 (297 × 210 mm), 500yen, 2022",
+        "url" : "___",
+        "popup" : "[W-8] sold 0 | stock 5"
+      },
+      {
+        "org" : "collaborations",
+        "name" : "a daily basis (DIARY)",
+        "type" : "Transparent Vinyl Sheet",
+        "description" : "[KAHM-bx2] 森、道、市場, 2022",
+        "url" : "___"
+      },
+      {
+        "org" : "gift",
+        "name" : "森、道、市場オフィシャルハンドブック",
+        "type" : "Book",
+        "description" : "[KAHM-bx2] 森、道、市場オフィシャルハンドブック, 2022",
+        "url" : "___"
+      }
+    ]
+  }
+  

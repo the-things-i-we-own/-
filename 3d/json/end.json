@@ -1,0 +1,162 @@
+{
+  "id": "end",
+  "value": "搬出",
+  "things": [
+    {
+      "org" : "show",
+      "name" : "BnA Alter Museum 到着 | 作業開始",
+      "type" : "10:00",
+      "description" : "中尾香織"
+    },
+    {
+      "org" : "show",
+      "name" : "∧°┐ が 所有するもの",
+      "type" : "10:00 - 12:00",
+      "description" : "吹き抜け 撮影 | 空っぽにする"
+    },
+    {
+      "org" : "motto",
+      "name" : "P E H U is",
+      "type" : "1",
+      "description" : "スクリーン印刷系片付け (白ダンボール大)"
+    },
+    {
+      "org" : "motto",
+      "name" : "P E H U is",
+      "type" : "2",
+      "description" : "Summer Collection → UR box | 私物 → 白ダンボール小"
+    },
+    {
+      "org" : "website",
+      "name" : "P E H U is",
+      "type" : "※",
+      "description" : "在庫数確認"
+    },
+    {
+      "org" : "show",
+      "name" : "∧°┐ が 所有するもの",
+      "type" : "3",
+      "description" : "単管作業台・奥のコンテナ系をバー部分に移動"
+    },
+    {
+      "org" : "show",
+      "name" : "足場を組む",
+      "type" : "11:00 -",
+      "description" : "TK"
+    },
+    {
+      "org" : "show",
+      "name" : "∧°┐ が 所有するもの",
+      "type" : "4",
+      "description" : "機材系 (URとKAHMを分別して片付ける)"
+    },
+    {
+      "org" : "show",
+      "name" : "∧°┐ が 所有するもの",
+      "type" : "5",
+      "description" : "ポスター類 (UR アタッシュケース・筒ダンボール) 玩具系 (UR BOX) 壊れたもの・記録資料 (KAHM BOX)"
+    },
+    {
+      "org" : "show",
+      "name" : "∧°┐ が 所有するもの",
+      "type" : "12:00 - 14:00",
+      "description" : "作品・商品を片付ける"
+    },
+    {
+      "org" : "show",
+      "name" : "∧°┐ が 所有するもの",
+      "type" : "1",
+      "description" : "ペフ出版物（トランク）"
+    },
+    {
+      "org" : "website",
+      "name" : "∧°┐ が 所有するもの",
+      "type" : "※",
+      "description" : "販売物在庫確認"
+    },
+    {
+      "org" : "show",
+      "name" : "∧°┐ が 所有するもの",
+      "type" : "2",
+      "description" : "ペフ所蔵作品（UR BOX）"
+    },
+    {
+      "org" : "show",
+      "name" : "∧°┐ が 所有するもの",
+      "type" : "3",
+      "description" : "コイン（KAHM BOX）"
+    },
+    {
+      "org" : "website",
+      "name" : "∧°┐ が 所有するもの",
+      "type" : "※",
+      "description" : "展示物回収確認"
+    },
+    {
+      "org" : "show",
+      "name" : "中抜け",
+      "type" : "14:00",
+      "description" : "中尾香織"
+    },
+    {
+      "org" : "show",
+      "name" : "VG CTLG",
+      "type" : "K",
+      "description" : "私物サンプルカセット（棚上のカセットBOX） | 販売用カセット（試聴機横カセットBOX） | その他販売物・私物（コンテナ）"
+    },
+    {
+      "org" : "website",
+      "name" : "∧°┐ が 所有するもの",
+      "type" : "※",
+      "description" : "展示物・販売物在庫確認"
+    },
+    {
+      "org" : "show",
+      "name" : "∧°┐ が 所有するもの",
+      "type" : "1",
+      "description" : "ディスプレイ・スティックPCx2 マウスx1 キーボードx1 撤収(UR/KAHM BOX)"
+    },
+    {
+      "org" : "show",
+      "name" : "∧°┐ が 所有するもの",
+      "type" : "2",
+      "description" : "試聴機撤収"
+    },
+    {
+      "org" : "map",
+      "name" : "BnA Alter Museumの周りで聞いた言葉",
+      "type" : "3",
+      "description" : "2F | 撤収"
+    },
+    {
+      "org" : "show",
+      "name" : "",
+      "type" : "4",
+      "description" : "ラベルステッカー剥がす・壁の補修"
+    },
+    {
+      "org" : "show",
+      "name" : "",
+      "type" : "5",
+      "description" : "単管バラシ・最終チェック"
+    },
+    {
+      "org" : "show",
+      "name" : "車到着 | 荷物詰め込み",
+      "type" : "23:00",
+      "description" : "単管バラシ・最終チェック"
+    },
+    {
+      "org" : "show",
+      "name" : "KAHM到着",
+      "type" : "25:00",
+      "description" : ""
+    },
+    {
+      "org" : "show",
+      "name" : "UR到着",
+      "type" : "26:00",
+      "description" : ""
+    }
+  ]
+}

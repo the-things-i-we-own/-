@@ -1,0 +1,66 @@
+{
+  "id": "two",
+  "value": "2022年8月14日(日)",
+  "things": [
+    {
+      "org" : "website",
+      "name" : "予約受付終了",
+      "type" : "10:00 - 18:00",
+      "description" : "所有するものを記録するホームページを作る | 担当:ささじまかずま"
+    },
+    {
+      "org" : "map",
+      "name" : "私（わたしたち）が聞いた言葉",
+      "type" : "10:00 - 20:00",
+      "description" : "BnA Alter Museumの周りで聞いた言葉を集める | 1F受付にご提出ください"
+    },
+    {
+      "org" : "print",
+      "name" : "所有するものを保管する箱を装飾する",
+      "type" : "10:00 - 20:00",
+      "description" : "担当:ささじまかずま"
+    },
+    {
+      "org" : "motto",
+      "name" : "P E H U is | Summer Collection",
+      "type" : "10:00 - 13:00",
+      "description" : "撮影・在庫管理 | 担当:中尾香織"
+    },
+    {
+      "org" : "map",
+      "name" : "私（わたしたち）が聞いた言葉",
+      "type" : "13:00 - 14:00",
+      "description" : "休憩 | BnA Alter Museumの周りで聞いた言葉を集める | 担当:中尾香織"
+    },
+    {
+      "org" : "show",
+      "name" : "夏わかば制作（シルクスクリーン印刷）",
+      "type" : "14:00 - 16:00",
+      "description" : "担当:中尾香織"
+    },
+    {
+      "org" : "map",
+      "name" : "私（わたしたち）が聞いた言葉",
+      "type" : "16:00 - 17:00",
+      "description" : "休憩 | BnA Alter Museumの周りで聞いた言葉を集める | 担当:中尾香織"
+    },
+    {
+      "org" : "print",
+      "name" : "所有するものを保管する箱を装飾する",
+      "type" : "17:00 - 20:00",
+      "description" : "担当:中尾香織"
+    },
+    {
+      "org" : "show",
+      "name" : "ポップアップの商品説明",
+      "type" : "10:00 - 20:00",
+      "description" : "担当:ささじまかずま"
+    },
+    {
+      "org" : "show",
+      "name" : "作業終了",
+      "type" : "20:00",
+      "description" : ""
+    }
+  ]
+}

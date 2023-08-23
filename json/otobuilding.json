@@ -1,0 +1,207 @@
+{
+    "id" : "otobuilding",
+    "value" : "2019 - 2022 | OTO Building",
+  
+    "things" : [
+      {
+        "org" : "bought",
+        "name" : "OTO Building",
+        "type" : "Website",
+        "description" : "otobuilding.com, 2019 - 2022",
+        "url" : "___"
+      },
+      {
+        "org" : "bought",
+        "name" : "やりたいことを快適に実現するための場所",
+        "type" : "Flag",
+        "description" : "[KAHM-bx2] のぼり, 2019",
+        "url" : "___"
+      },
+      {
+        "org" : "made",
+        "name" : "ベータルームへようこそ",
+        "type" : "PDF",
+        "description" : "音ビルB室での過ごし方, 2019",
+        "url" : "___"
+      },
+      {
+        "org" : "made",
+        "name" : "音ビルマグネット",
+        "type" : "Magnet Sheet",
+        "description" : "[KAHM-bx2] 2019",
+        "url" : "___"
+      },
+      {
+        "org" : "other",
+        "name" : "『IN/SECTS』Vol. 12",
+        "type" : "Book",
+        "description" : "[] 特集 大阪観光, ● 大阪・北加賀屋 カルチャーアート最旬NEWS!, ● 今、持って帰りたい小さな 大阪 ローカルグッズなおみやげ, 2019",
+        "url" : "___"
+      },
+      {
+        "org" : "free",
+        "name" : "公共施設案内",
+        "type" : "Flyer/Booklet",
+        "description" : "[KAHM-bx2-f.1] デュオnetすいた, 大阪祖社会福祉協議会",
+        "url" : "___"
+      },
+      {
+        "org" : "bought",
+        "name" : "卓球セット",
+        "type" : "Hobby",
+        "description" : "[UR-D] ラケットx3 ピンポン球x4 伸縮式ネット(〜175cm,厚さ〜5cm)",
+        "url" : "___"
+      },
+      {
+        "org" : "bought",
+        "name" : "大 chotto crazy 2020",
+        "type" : "Stamp",
+        "description" : "[KAHM-bx2] はんこ 3種(大/chotto crazy/2020), 2020",
+        "url" : "___",
+        "popup" : "sold | stock | Not for Sale"
+      },
+      {
+        "org" : "made",
+        "name" : "音ビル図面",
+        "type" : "PDF",
+        "description" : "1F ガレージ | 2F A室 B室, 2020",
+        "url" : "___"
+      },
+      {
+        "org" : "bought",
+        "name" : "ライト",
+        "type" : "Tool",
+        "description" : "[UR-D] 2パターン切り替え 電池式",
+        "url" : "___"
+      },
+      {
+        "org" : "bought",
+        "name" : "ヘッドライト",
+        "type" : "Tool",
+        "description" : "[UR-D] 3パターン切り替え 電池式",
+        "url" : "___"
+      },
+      {
+        "org" : "collaborations",
+        "name" : "大 chotto crazy 2020 メモ",
+        "type" : "Document",
+        "description" : "[KAHM-bx2] ",
+        "url" : "___"
+      },
+      {
+        "org" : "bought",
+        "name" : "こす",
+        "type" : "___",
+        "description" : "[KAHM-bx2] 光るねんど",
+        "url" : "___"
+      },
+      {
+        "org" : "bought",
+        "name" : "石を磨きたい",
+        "type" : "___",
+        "description" : "[KAHM-bx2] やすり",
+        "url" : "___"
+      },
+      {
+        "org" : "collaborations",
+        "name" : "芝浴",
+        "type" : "___",
+        "description" : "[KAHM-bx2] 芝浴",
+        "url" : "___"
+      },
+      {
+        "org" : "bought",
+        "name" : "藍で染めよう祭",
+        "type" : "___",
+        "description" : "[KAHM-bx2] ハンカチ",
+        "url" : "___"
+      },
+      {
+        "org" : "made",
+        "name" : "暗闇でお喋り",
+        "type" : "___",
+        "description" : "[KAHM-bx2] カセットテープ",
+        "url" : "___"
+      },
+      {
+        "org" : "collaborations",
+        "name" : "Memory Game",
+        "type" : "Artwork",
+        "description" : "[KAHM-bx2] 大 chotto crazy 2020 の 重ね合わせ",
+        "url" : "___"
+      },
+      {
+        "org" : "collaborations",
+        "name" : "サイン（非公式）",
+        "type" : "Artwork",
+        "description" : "[KAHM-bx2] 展覧会「ヤバめの金属バット工場」出展作品, 2020",
+        "url" : "___"
+      },
+      {
+        "org" : "other",
+        "name" : "音ビル取り決め",
+        "type" : "Document",
+        "description" : "[KAHM-bx2-f.1] 緊急事態宣言及びまん延防止等重点措置下における取り決めについて by club Duphnia/icecream music/TRA-TRAVEL/ペフ, 2021",
+        "url" : "___"
+      },
+      {
+        "org" : "made",
+        "name" : "音ビル活動記録",
+        "type" : "Booklet",
+        "description" : "[KAHM-bx2] 音ビル活動にまつわる書類・メモをまとめた冊子(2022)",
+        "url" : "___",
+        "popup" : "sold | stock | Not for Sale"
+      },
+      {
+        "org" : "made",
+        "name" : "千島財団助成記録",
+        "type" : "Booklet",
+        "description" : "[KAHM-bx2] 千島財団からの助成にまつわる書類・メモをまとめた冊子(2022)",
+        "url" : "___"
+      },
+      {
+        "org" : "free",
+        "name" : "音ビル時代資料",
+        "type" : "Document",
+        "description" : "[KAHM-bx2] 助成関連資料ファイル・音ビル外活動資料ファイル",
+        "url" : "___"
+      },
+      {
+        "org" : "free",
+        "name" : "名村造船所資料 3種",
+        "type" : "Booklet",
+        "description" : "[KAHM-bx1] 名村テクニカルレビュー1998No.1/貨物保険案内/自動車保険申込書",
+        "url" : "___",
+        "popup" : "sold | stock | Not for Sale"
+      },
+      {
+        "org" : "free",
+        "name" : "加賀屋天満宮の手ぬぐい",
+        "type" : "Goods",
+        "description" : "[KAHM-bx2] 加賀屋天満宮",
+        "url" : "___"
+      },
+      {
+        "org" : "free",
+        "name" : "私の石",
+        "type" : "Cement Stones",
+        "description" : "[UR-NTbx] by 松延総司, 2011 | 北加賀屋にて 2019, 2020",
+        "url" : "https://matsunobe.net/works/mystones/index.html"
+      },
+      {
+        "org" : "free",
+        "name" : "住之江区民ギャラリー",
+        "type" : "Document",
+        "description" : "[KAHM-bx2] 案内冊子,使用申請書, 2022",
+        "url" : "___"
+      },
+      {
+        "org" : "made",
+        "name" : "things that i (we) heard OTO building",
+        "type" : "Artwork/Website",
+        "description" : "[KAHM-bx2] 住之江区民ギャラリー | カード, 案内テキスト, QR, 2022",
+        "url" : "___"
+      }
+    ]
+  }
+  

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="format-detection" content="telephone=no">
+    <script src="https://the-things-i-we-own.github.io/template/index.js" crossorigin async></script>
+    <script src="https://the-things-i-we-own.github.io/template/things.js" crossorigin></script>
+    <script type="text/javascript">
+        document.addEventListener('DOMContentLoaded', function () {
+            thingsJSON('json/publication.json');
+            thingsJSON('json/otobuilding.json');
+            thingsJSON('json/nishitemma.json');
+            thingsJSON('json/2f.json');
+            thingsJSON('json/1f.json');
+        });
+    </script>
+    <link rel="stylesheet" type="text/css" href="https://the-things-i-we-own.github.io/template/style.css" crossorigin />
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <style>
+        
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1 id="title"></h1>
+        <p id="description"></p>
+        <nav id="org">
+            <input type="radio" name="org" id="all" value="all" checked>
+            <label for="all">Index</label>
+        </nav>
+    </header>
+    <main hidden>
+        <footer>
+            <p>
+                Author <b id="author"></b><br />
+                Email <a id="email"></a>
+            </p>
+        </footer>
+    </main>
+    <main id="things">
+        <ul id="about">
+            <p>所有するものを絞り込むカテゴリーについて</p>
+        </ul>
+    </main>
+    <script src="https://the-things-i-we-own.github.io/template/org.js" crossorigin></script>
+</body>
+
+</html>

@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="format-detection" content="telephone=no">
+    <script src="https://the-things-i-we-own.github.io/template/index.js" crossorigin="anonymous" async></script>
+    <script src="https://the-things-i-we-own.github.io/template/things.js" crossorigin="anonymous"></script>
+    <script type="text/javascript">
+        document.addEventListener('DOMContentLoaded', function () {
+            thingsJSON('json/bon.json');
+            thingsJSON('json/0813.json');
+            thingsJSON('json/0814.json');
+            thingsJSON('json/0815.json');
+            thingsJSON('json/0816.json');
+            thingsJSON('json/start.json');
+            thingsJSON('json/end.json');
+        });
+    </script>
+    <link rel="stylesheet" type="text/css" href="https://the-things-i-we-own.github.io/template/style.css" crossorigin="anonymous">
+    <style>
+        header {
+            border-bottom: dotted #ddd 1px;
+        }
+
+        footer {
+            border-top: dotted #ddd 1px;
+        }
+
+        #things::-webkit-scrollbar-thumb {
+            border-radius: 2rem;
+            background: #ddd;
+        }
+
+        input[type="button"] {
+            color: #000;
+        }
+
+        input[type="radio"]+label:hover {
+            text-decoration: #000 underline double;
+        }
+
+        nav label:not(:first-of-type)::before {
+            content: "|";
+            color: #000;
+            font-weight: 900;
+            margin: 0 0.5rem;
+        }
+
+        input[type="radio"]:not(:checked)+label {
+            color: #ddd;
+        }
+
+        #things ul u {
+            display: block;
+            border: solid 1px;
+            padding: 0 0.25rem;
+            text-decoration: none;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1 id="title"></h1>
+        <p id="description"></p>
+        <nav id="org">
+            <input type="radio" name="org" id="all" value="all" checked>
+            <label for="all">Index</label>
+        </nav>
+    </header>
+    <main hidden>
+        <footer>
+            <p>
+                Author <b id="author"></b><br />
+                Email <a id="email"></a>
+            </p>
+        </footer>
+    </main>
+    <main id="things">
+        <ul id="about">
+            <p>
+                <strong>
+                    <span class="pehu">∧°┐</span> が 所有するもの in 3D
+                </strong><br/>
+                会場：BnA Alter Museum
+                <a href="https://g.page/BnAAlterMuseum?share" target="_blank">Google Map</a>
+            </p>
+        </ul>
+    </main>
+    <script src="https://the-things-i-we-own.github.io/template/org.js" crossorigin="anonymous"></script>
+</body>
+
+</html>

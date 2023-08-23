@@ -1,0 +1,298 @@
+{
+    "id" : "cando",
+    "value" : "2F & Artist in Residence",
+  
+    "things" : [
+      {
+        "org" : "made",
+        "name" : "∧°┐ 2019",
+        "type" : "Booklet",
+        "description" : "[KAHM-bx2] Digital Magazine 01 - 13, レシピ集, あっちマンガ, pehu talk",
+        "url" : "___"
+      },
+      {
+        "org" : "collaborations",
+        "name" : "雪の跡",
+        "type" : "Document",
+        "description" : "[KAHM-bx2] アート／ブックのとても大きな部屋：読む・作る・考える, 2019",
+        "url" : "___"
+      },
+      {
+        "org" : "gift",
+        "name" : "scent",
+        "type" : "Stickers",
+        "description" : "[KAHM-bx2-f.g] by Josefina Valdés, 2019",
+        "url" : "___"
+      },
+      {
+        "org" : "collaborations",
+        "name" : "銃を作ろう",
+        "type" : "Wood",
+        "description" : "[KAHM-bx1] by Emilio Algo, Josefina Valdés, お客さん, 2019",
+        "url" : "___"
+      },
+      {
+        "org" : "gift",
+        "name" : "食品サンプル",
+        "type" : "Figure",
+        "description" : "[KAHM-bx1] 目玉焼き,クロックムッシュ by Sammy Stein, 2019",
+        "url" : "___"
+      },
+      {
+        "org" : "collaborations",
+        "name" : "書道と陶芸",
+        "type" : "Artworks",
+        "description" : "[KAHM-bx1] by JP, VD, お客さん二名, あくちゃん, pal, あっち, まろ, かおちょ, 2019",
+        "url" : "___"
+      },
+      {
+        "org" : "free",
+        "name" : "髪の毛",
+        "type" : "Hair",
+        "description" : "[KAHM-bx2-f.g] by sammy, vanessa, sevrine, kaori, 2019",
+        "url" : "___"
+      },
+      {
+        "org" : "free",
+        "name" : "工事ライト",
+        "type" : "Emergency",
+        "description" : "[UR-NTbx] ソーラー付き",
+        "url" : "___"
+      },
+      {
+        "org" : "other",
+        "name" : "月間カフェ会員入会書",
+        "type" : "Sign",
+        "description" : "[KAHM-bx1] by JP, VZ, SB, SS, 2019",
+        "url" : "___"
+      },
+      {
+        "org" : "gift",
+        "name" : "日仏の友情",
+        "type" : "Zine",
+        "description" : "[KAHM-bx2] フレンドリーでプロフェッショナルな会議-100%の友達 by Jean-Phillipe-Bretin, 2019",
+        "url" : "___",
+        "popup" : "Not for Sale"
+      },
+      {
+        "org" : "collaborations",
+        "name" : "Friendly Form Shop Osaka Branch",
+        "type" : "Artworks",
+        "description" : "[KAHM-bx1] by Nick, David, pal, まろ, かおちょ, 2019",
+        "url" : "___"
+      },
+      {
+        "org" : "gift",
+        "name" : "NS1",
+        "type" : "Artworks",
+        "description" : "[UR-B2C] by Nicholas Strobelt, 2019",
+        "url" : "___"
+      },
+      {
+        "org" : "gift",
+        "name" : "1セント硬貨",
+        "type" : "Coins",
+        "description" : "[UR-NTbx] by Nicholas Strobelt, 2019",
+        "url" : "___",
+        "popup" : "Not for Sale"
+      },
+      {
+        "org" : "sale",
+        "name" : "The Stone of The Isamu Noguchi Foundation and Garden Museum",
+        "type" : "Stone",
+        "description" : "[VG CTLG] by Joseph Torres, 7000yen, 2019",
+        "url" : "___",
+        "popup" : "sold | stock | Not for Sale"
+      },
+      {
+        "org" : "sale",
+        "name" : "The Fragment",
+        "type" : "Ceramic",
+        "description" : "[VG CTLG] by Joseph Torres, 2000yen, 2019",
+        "url" : "___",
+        "popup" : "sold | stock | Not for Sale"
+      },
+      {
+        "org" : "sale",
+        "name" : "The House",
+        "type" : "Ceramic",
+        "description" : "[VG CTLG] by Joseph Torres, 5000yen, 2019",
+        "url" : "___",
+        "popup" : "sold | stock | Not for Sale"
+      },
+      {
+        "org" : "sale",
+        "name" : "Untitled (Two Tones)",
+        "type" : "Ceramic",
+        "description" : "[VG CTLG] by Joseph Torres, 2500yen, 2019",
+        "url" : "___",
+        "popup" : "sold | stock | Not for Sale"
+      },
+      {
+        "org" : "sale",
+        "name" : "The Vase",
+        "type" : "Ceramic",
+        "description" : "[VG CTLG] by Joseph Torres, 8500yen, 2019",
+        "url" : "___",
+        "popup" : "sold | stock | Not for Sale"
+      },
+      {
+        "org" : "sale",
+        "name" : "Tea Bowls",
+        "type" : "Ceramic",
+        "description" : "[VG CTLG] by Joseph Torres, 3500yen, 2019",
+        "url" : "___",
+        "popup" : "sold | stock | Not for Sale"
+      },
+      {
+        "org" : "bought",
+        "name" : "会話トランプ",
+        "type" : "Hobby",
+        "description" : "[UR] デザインの参考資料として購入",
+        "url" : "___"
+      },
+      {
+        "org" : "collaborations",
+        "name" : "Green People",
+        "type" : "Artworks",
+        "description" : "[UR-NTbx] A4プリント, 額装プリント, 名札, L版, 夏越し人形, アルミホイル人形, フェルト, 2019",
+        "url" : "___",
+        "popup" : "Not for Sale"
+      },
+      {
+        "org" : "gift",
+        "name" : "Bell Kiosk",
+        "type" : "Stickers/Bells",
+        "description" : "[UR-NTbx] by Elliot Cost, 2019",
+        "url" : "___"
+      },
+      {
+        "org" : "sale",
+        "name" : "TNR Writer",
+        "type" : "Photo Cards",
+        "description" : "[UR-NTbx] by Elliot Cost, 500yen, 2019",
+        "url" : "___"
+      },
+      {
+        "org" : "gift",
+        "name" : "the whole city is full of wishes",
+        "type" : "Booklet",
+        "description" : "by wish books, nyc | october, 2019",
+        "url" : "___"
+      },
+      {
+        "org" : "gift",
+        "name" : "Note Book",
+        "type" : "Stationery",
+        "description" : "[UR-NTbx] by Laurel schwulst, 2019",
+        "url" : "___",
+        "popup" : "Not for Sale"
+      },
+      {
+        "org" : "collaborations",
+        "name" : "部屋のための指示",
+        "type" : "Booklet",
+        "description" : "[KAHM-bx1] by Laurel schwulst, 試作品, 2019",
+        "url" : "___",
+        "popup" : "Not for Sale"
+      },
+      {
+        "org" : "collaborations",
+        "name" : "この部屋での時間のつぶし方",
+        "type" : "Booklet",
+        "description" : "[KAHM-bx1] For Fright Simirator Room, 2019",
+        "url" : "___",
+        "popup" : "Not for Sale"
+      },
+      {
+        "org" : "sale",
+        "name" : "Fright Simurator (Blue)",
+        "type" : "Pin",
+        "description" : "[VG CTLG] by Laurel Schwulst, 700yen",
+        "url" : "___",
+        "popup" : "[G-6] sold 1 | stock 5"
+      },
+      {
+        "org" : "sale",
+        "name" : "Fright Simurator (Orange)",
+        "type" : "Pin",
+        "description" : "[VG CTLG] by Laurel Schwulst, 700yen",
+        "url" : "___",
+        "popup" : "[G-7] sold 2 | stock 5"
+      },
+      {
+        "org" : "gift",
+        "name" : "Pomera",
+        "type" : "Artworks",
+        "description" : "[UR-NTbx] by Laurel Schwulst, 2019",
+        "url" : "___",
+        "popup" : "Not for Sale"
+      },
+      {
+        "org" : "collaborations",
+        "name" : "Pon Advertisements",
+        "type" : "Artworks",
+        "description" : "[UR-B2C] by Laurel Schwulst, for Ayami, Ayumi, Kaori, Kazuma, PAL, 2019",
+        "url" : "___",
+        "popup" : "Not for Sale"
+      },
+      {
+        "org" : "collaborations",
+        "name" : "water tasting",
+        "type" : "Document",
+        "description" : "[KAHM-bx2-f.g] by Laurel schwulst, あっち, まろ, かおちょ, 2019",
+        "url" : "___"
+      },
+      {
+        "org" : "bought",
+        "name" : "AudioComm RCS-S940R",
+        "type" : "ポータブルステレオラジオカセットレコーダー",
+        "description" : "[UR-7.5-WW] ステレオ方式カセットデッキ（4トラック2チャンネル） | AM/FM受信（AM：モノラル音声、FM：モノラル/ステレオ音声）",
+        "url" : "https://www.ohm-electric.co.jp/product/c13/c1303/39059/"
+      },
+      {
+        "org" : "bought",
+        "name" : "壁掛けCDプレーヤー",
+        "type" : "CDプレーヤー",
+        "description" : "[KAHM] M.WAY",
+        "url" : "___"
+      },
+      {
+        "org" : "bought",
+        "name" : "ホワイトノイズマシン",
+        "type" : "Goods",
+        "description" : "[KAHM] Vanzon 21種類の音 5.5x10cm",
+        "url" : "___"
+      },
+      {
+        "org" : "bought",
+        "name" : "4KGA06DN x2",
+        "type" : "Clock",
+        "description" : "[UR-4.5] 時計 DAILY 直径33cm",
+        "url" : "___"
+      },
+      {
+        "org" : "gift",
+        "name" : "Tongue finishes back at the root of itself",
+        "type" : "Artworks",
+        "description" : "[UR-NTbx] by Ferran Pla | Ana Martinez Fernandez, 2019",
+        "url" : "___",
+        "popup" : "Not for Sale"
+      },
+      {
+        "org" : "gift",
+        "name" : "手紙",
+        "type" : "Artworks",
+        "description" : "[UR-NTbx] by Christian Oldham",
+        "url" : "___"
+      },
+      {
+        "org" : "gift",
+        "name" : "手紙",
+        "type" : "Letters",
+        "description" : "[KAHM-bx2-f.g] by anna, emma, laurel, vanessa, almand, someone",
+        "url" : "___"
+      }
+    ]
+  }
+  
