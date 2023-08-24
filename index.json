@@ -98,14 +98,14 @@
       "src" : "https://d2w9rnfcy7mm78.cloudfront.net/23249558/original_b0e1f8a08e338bdb8429b329d3cb69ef.png?1692606907?bc=0"
     },
     {
-      "org" : "made",
+      "org" : "collaborations",
       "size" : "medium",
       "x" : "60%",
       "y" : "55%",
       "src" : "https://d2w9rnfcy7mm78.cloudfront.net/23249560/original_7cdf66361ba8c439a55bf09215ab2d54.png?1692606910?bc=0"
     },
     {
-      "org" : "made",
+      "org" : "other",
       "size" : "medium",
       "x" : "45%",
       "y" : "60%",
@@ -119,7 +119,7 @@
       "src" : "https://d2w9rnfcy7mm78.cloudfront.net/23249538/original_6f482caeb036ad6598e7478e902f68da.png?1692606905?bc=0"
     },
     {
-      "org" : "bought",
+      "org" : "collaborations",
       "size" : "medium",
       "x" : "30%",
       "y" : "70%",
@@ -133,14 +133,14 @@
       "src" : "https://d2w9rnfcy7mm78.cloudfront.net/23249559/original_03ebdd87422a59b9c585a0e1c48842d9.png?1692606907?bc=0"
     },
     {
-      "org" : "made",
+      "org" : "collaborations",
       "size" : "x-small",
       "x" : "55%",
       "y" : "75%",
       "src" : "https://d2w9rnfcy7mm78.cloudfront.net/23249535/original_df7ba3a3ab6bab580d19ce2892713468.png?1692606906?bc=0"
     },
     {
-      "org" : "bought",
+      "org" : "collaborations",
       "size" : "x-small",
       "x" : "40%",
       "y" : "80%",
