@@ -9,8 +9,8 @@
 }
 
 h1,
-ul strong,
-ul b,
+#org,
+ul small,
 footer {
   font-family: "MS Mincho", "SimSong", serif;
   font-weight: 500;
@@ -19,8 +19,8 @@ footer {
 }
 
 #description,
-#org,
-ul small,
+ul strong,
+ul b,
 ul u {
     font-family: Arial, Helvetica, sans-serif;
 }
