@@ -45,5 +45,108 @@
       "name" : "$$$ FOR SALE $$$",
       "info" : "出版物・関わった人たちの販売物、不要になった売りたいもの、など"
     }
+  ],
+
+  "cover" : [
+    {
+      "org" : "bought",
+      "size" : "xxx-large",
+      "src" : "https://d2w9rnfcy7mm78.cloudfront.net/23249557/original_e37626c14859bf0e9d2a7ac7698273df.png?1692606907?bc=0"
+    },
+    {
+      "org" : "made",
+      "size" : "xx-large",
+      "src" : "https://d2w9rnfcy7mm78.cloudfront.net/23249550/original_183c82d1894272f981efbf7a17869619.png?1692606906?bc=0"
+    },
+    {
+      "org" : "made",
+      "size" : "x-large",
+      "src" : "https://d2w9rnfcy7mm78.cloudfront.net/23249544/original_17faf433c2b2fed009193de8dc85c60e.png?1692606905?bc=0"
+    },
+    {
+      "org" : "made",
+      "size" : "x-large",
+      "src" : "https://d2w9rnfcy7mm78.cloudfront.net/23249555/original_4bcfe0b7d4370b8ffacc045c24991318.png?1692606907?bc=0"
+    },
+    {
+      "org" : "bought",
+      "size" : "large",
+      "src" : "https://d2w9rnfcy7mm78.cloudfront.net/23249549/original_60ac3b9a01f8f6c6813934f89fe91f32.png?1692606906?bc=0"
+    },
+    {
+      "org" : "made",
+      "size" : "large",
+      "src" : "https://d2w9rnfcy7mm78.cloudfront.net/23249558/original_b0e1f8a08e338bdb8429b329d3cb69ef.png?1692606907?bc=0"
+    },
+    {
+      "org" : "made",
+      "size" : "medium",
+      "src" : "https://d2w9rnfcy7mm78.cloudfront.net/23249554/original_07a9552d6afcebb1b7f5b2faae5d9396.png?1692606907?bc=0"
+    },
+    {
+      "org" : "made",
+      "size" : "medium",
+      "src" : "https://d2w9rnfcy7mm78.cloudfront.net/23249560/original_7cdf66361ba8c439a55bf09215ab2d54.png?1692606910?bc=0"
+    },
+    {
+      "org" : "made",
+      "size" : "medium",
+      "src" : "https://d2w9rnfcy7mm78.cloudfront.net/23249551/original_0e820dd2385efd263a17e84a024ea943.png?1692606906?bc=0"
+    },
+    {
+      "org" : "bought",
+      "size" : "medium",
+      "src" : "https://d2w9rnfcy7mm78.cloudfront.net/23249545/original_a459a9383580c8611d5b64ab53118e29.png?1692606905?bc=0"
+    },
+    {
+      "org" : "made",
+      "size" : "small",
+      "src" : "https://d2w9rnfcy7mm78.cloudfront.net/23249541/original_9eb94ab6a889224d5a911c4288303ec0.png?1692606906?bc=0"
+    },
+    {
+      "org" : "free",
+      "size" : "small",
+      "src" : "https://d2w9rnfcy7mm78.cloudfront.net/23249559/original_03ebdd87422a59b9c585a0e1c48842d9.png?1692606907?bc=0"
+    },
+    {
+      "org" : "made",
+      "size" : "x-small",
+      "src" : "https://d2w9rnfcy7mm78.cloudfront.net/23249535/original_df7ba3a3ab6bab580d19ce2892713468.png?1692606906?bc=0"
+    },
+    {
+      "org" : "bought",
+      "size" : "small",
+      "src" : "https://d2w9rnfcy7mm78.cloudfront.net/23249543/original_a52639240bbe9a6abcc20cc146ced34c.png?1692606906?bc=0"
+    },
+    {
+      "org" : "bought",
+      "size" : "small",
+      "src" : "https://d2w9rnfcy7mm78.cloudfront.net/23249537/original_8aec5536772dd9cca778076cc1c2a0ac.png?1692606906?bc=0"
+    },
+    {
+      "org" : "bought",
+      "size" : "small",
+      "src" : "https://d2w9rnfcy7mm78.cloudfront.net/23249556/original_6a464871a02f2e4b3e7748a774862eb1.png?1692606907?bc=0"
+    },
+    {
+      "org" : "bought",
+      "size" : "xx-small",
+      "src" : "https://d2w9rnfcy7mm78.cloudfront.net/23249536/original_99bb6fd9737d46716c4ab961215ae6a5.png?1692606906?bc=0"
+    },
+    {
+      "org" : "gift",
+      "size" : "xx-small",
+      "src" : "https://d2w9rnfcy7mm78.cloudfront.net/23249534/original_537ca71a6b4e0a8bb03f390a41b1c3d0.png?1692606905?bc=0"
+    },
+    {
+      "org" : "gift",
+      "size" : "xxx-small",
+      "src" : "https://d2w9rnfcy7mm78.cloudfront.net/23249540/original_1c51dbd3785a4d1d45f8968241bca398.png?1692606905?bc=0"
+    },
+    {
+      "org" : "gift",
+      "size" : "xxx-small",
+      "src" : "https://d2w9rnfcy7mm78.cloudfront.net/23249553/original_f563ea5075597c5c5c2183dc13be6840.png?1692606907?bc=0"
+    }
   ]
 }
