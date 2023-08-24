@@ -72,21 +72,21 @@
     {
       "org" : "made",
       "size" : "large",
-      "x" : "60%",
+      "x" : "70%",
       "y" : "40%",
       "src" : "https://d2w9rnfcy7mm78.cloudfront.net/23249544/original_17faf433c2b2fed009193de8dc85c60e.png?1692606905?bc=0"
     },
     {
       "org" : "made",
       "size" : "x-large",
-      "x" : "65%",
+      "x" : "75%",
       "y" : "15%",
       "src" : "https://d2w9rnfcy7mm78.cloudfront.net/23249554/original_07a9552d6afcebb1b7f5b2faae5d9396.png?1692606907?bc=0"
     },
     {
       "org" : "bought",
       "size" : "large",
-      "x" : "65%",
+      "x" : "75%",
       "y" : "70%",
       "src" : "https://d2w9rnfcy7mm78.cloudfront.net/23249549/original_60ac3b9a01f8f6c6813934f89fe91f32.png?1692606906?bc=0"
     },
@@ -114,7 +114,7 @@
     {
       "org" : "made",
       "size" : "medium",
-      "x" : "55%",
+      "x" : "60%",
       "y" : "35%",
       "src" : "https://d2w9rnfcy7mm78.cloudfront.net/23249538/original_6f482caeb036ad6598e7478e902f68da.png?1692606905?bc=0"
     },
@@ -128,14 +128,14 @@
     {
       "org" : "free",
       "size" : "small",
-      "x" : "75%",
+      "x" : "80%",
       "y" : "75%",
       "src" : "https://d2w9rnfcy7mm78.cloudfront.net/23249559/original_03ebdd87422a59b9c585a0e1c48842d9.png?1692606907?bc=0"
     },
     {
       "org" : "collaborations",
       "size" : "x-small",
-      "x" : "55%",
+      "x" : "85%",
       "y" : "75%",
       "src" : "https://d2w9rnfcy7mm78.cloudfront.net/23249535/original_df7ba3a3ab6bab580d19ce2892713468.png?1692606906?bc=0"
     },
@@ -149,7 +149,7 @@
     {
       "org" : "free",
       "size" : "x-small",
-      "x" : "80%",
+      "x" : "85%",
       "y" : "80%",
       "src" : "https://d2w9rnfcy7mm78.cloudfront.net/23249542/original_e08c72a4616214827e8e44d33d967e99.png?1692606906?bc=0"
     },
