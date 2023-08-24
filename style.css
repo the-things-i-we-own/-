@@ -12,7 +12,7 @@ h1,
 #org,
 ul strong,
 #about small,
-ul b,
+#things b,
 footer {
   font-family: "MS Mincho", "SimSong", serif;
   font-weight: 500;
@@ -21,8 +21,9 @@ footer {
 }
 
 #description,
+#about b,
 #things small,
-ul u {
+#things u {
     font-family: Arial, Helvetica, sans-serif;
   font-weight: 500;
 }
