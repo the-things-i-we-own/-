@@ -4,18 +4,88 @@
   
     "things" : [
       {
-        "org" : "sale",
+        "org" : "bought",
         "name" : "I-O DATA EX-LD321DB x3",
         "type" : "31.5型 ディスプレイ",
         "description" : "[KAHM-CL] 広視野角ADSパネル HDMI×2 DisplayPort",
         "url" : "https://www.iodata.jp/product/lcd/wide/ex-ld321db/"
       },
       {
-        "org" : "sale",
+        "org" : "bought",
         "name" : "インテル® Compute Stick STCK1A32WFC x3",
         "type" : "スティック型パソコン",
         "description" : "[KAHM-CL] Intel Atom® 32GB eMMC/2 GB/32 GB/Windows 10, 32-bit*",
         "url" : "https://www.intel.co.jp/content/www/jp/ja/products/sku/86612/intel-compute-stick-stck1a32wfc/specifications.html"
+      },
+      {
+        "org" : "bought",
+        "name" : "Intel Skynew M1S",
+        "type" : "スティック型パソコン",
+        "description" : "[UR-7.5] Intel Atom x5-Z8350/4GB/64GB/Win11【型番:M1S】",
+        "url" : "___"
+      },
+      {
+        "org" : "bought",
+        "name" : "BUFFALO BSH4U310U3",
+        "type" : "USB-A 4×HUB",
+        "description" : "[UR-7.5]",
+        "url" : "___"
+      },
+      {
+        "org" : "bought",
+        "name" : "ELECOM U2H-SN4NB",
+        "type" : "USB-A 4×HUB",
+        "description" : "[UR-7.5]",
+        "url" : "___"
+      },
+      {
+        "org" : "bought",
+        "name" : "USB-A(オス)→USB-A(メス)延長 10m",
+        "type" : "USB ケーブル",
+        "description" : "[UR-7.5]",
+        "url" : "___"
+      },
+      {
+        "org" : "bought",
+        "name" : "logi M221",
+        "type" : "USB-A Bluetoothマウス",
+        "description" : "[UR-7.5]",
+        "url" : "___"
+      },
+      {
+        "org" : "bought",
+        "name" : "400-MA095",
+        "type" : "エアマウス",
+        "description" : "[UR-4.5-TK] プレゼンテーションマウス・空中マウス・ワイヤレスプレゼンター・ジャイロ",
+        "url" : "___"
+      },
+      {
+        "org" : "bought",
+        "name" : "N5 1080P Webcam",
+        "type" : "USB-A 有線WEBカメラ",
+        "description" : "[UR-7.5]",
+        "url" : "___"
+      },
+      {
+        "org" : "bought",
+        "name" : "MM-MCUSB25",
+        "type" : "USB-A 有線WEBマイク",
+        "description" : "[UR-7.5]",
+        "url" : "___"
+      },
+      {
+        "org" : "bought",
+        "name" : "USB-A 有線WEBカメラ",
+        "type" : "WEBカメラ",
+        "description" : "[UR-7.5]",
+        "url" : "___"
+      },
+      {
+        "org" : "bought",
+        "name" : "USB-A 有線WEBマイク",
+        "type" : "WEBマイク",
+        "description" : "[UR-7.5]",
+        "url" : "___"
       }
     ]
   }
