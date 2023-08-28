@@ -34,5 +34,86 @@
       "name": "things that i (we) heard",
       "info": "私（わたしたち）がBnA Alter Museumの周りで聞いた言葉を集める"
     }
+  ],
+
+  "cover" : [
+    {
+      "org" : "show",
+      "size" : "xxx-large",
+      "x" : "50%",
+      "y" : "50%",
+      "src" : "https://64.media.tumblr.com/873806933e2b0d9bd874d3621e334e80/183c0dc13be0fc7a-f7/s1280x1920/ffb62d6917a63b41ece67ef0475176b1c3d31f0e.jpg"
+    },
+    {
+      "org" : "show",
+      "size" : "x-large",
+      "x" : "20%",
+      "y" : "25%",
+      "src" : "https://64.media.tumblr.com/9c19e16cc0eb4135820184104af50d0e/fcb9348a4d522de2-6e/s1280x1920/5031aebb3b542aef92568068ef90cdd97cf2a013.jpg"
+    },
+    {
+      "org" : "show",
+      "size" : "xx-large",
+      "x" : "70%",
+      "y" : "65%",
+      "src" : "https://64.media.tumblr.com/7e313f7947243b132d215f361899ee48/fcb9348a4d522de2-ab/s1280x1920/87bf696c25ced74ebf3d9092cf5f655da93afc32.jpg"
+    },
+    {
+      "org" : "website",
+      "size" : "medium",
+      "x" : "40%",
+      "y" : "35%",
+      "src" : "https://64.media.tumblr.com/79b8a99dc4cf0e8e4494655144d73cec/a91a16832b660502-95/s1280x1920/b224f799b25a11c0ed7b3b2ce84f3949d264ceca.png"
+    },
+    {
+      "org" : "print",
+      "size" : "xx-large",
+      "x" : "80%",
+      "y" : "80%",
+      "src" : "https://64.media.tumblr.com/18d2892a60ecee6cc8be2c94a0bd7c08/553162d375029b69-f3/s2048x3072/865bfe7c64f1b6322f2d800fff0d7d55f74a4ed0.jpg"
+    },
+    {
+      "org" : "map",
+      "size" : "xx-large",
+      "x" : "15%",
+      "y" : "75%",
+      "src" : "https://64.media.tumblr.com/aa6fa79e31cc19d5000489cc11da7858/84c715c72642fc9f-0e/s2048x3072/4be64a30e4b5497cbe82ea9d6804b65f81c0d295.jpg"
+    },
+    {
+      "org" : "map",
+      "size" : "x-large",
+      "x" : "25%",
+      "y" : "20%",
+      "src" : "https://64.media.tumblr.com/df04ee2cf6dc162aba2a4f4b3f703c2e/84c715c72642fc9f-57/s1280x1920/6af24bbece49052fa36bee45e889acbbdc75208f.jpg"
+    },
+    {
+      "org" : "print",
+      "size" : "x-large",
+      "x" : "90%",
+      "y" : "25%",
+      "src" : "https://64.media.tumblr.com/15defaa3e9d774c4f0973f07cfc3d4ee/553162d375029b69-50/s2048x3072/2058e232a8dba1740c19745eb4a5464f24cabc21.jpg"
+    },
+    {
+      "org" : "motto",
+      "size" : "x-large",
+      "x" : "35%",
+      "y" : "75%",
+      "src" : "https://64.media.tumblr.com/18c06107145e42cc8d6263231af684ec/ffd645872182526e-8a/s1280x1920/06a5f13a695f072db8df9a351f8e866fea0768d8.jpg"
+    },
+    {
+      "org" : "motto",
+      "size" : "large",
+      "x" : "60%",
+      "y" : "75%",
+      "src" : "https://64.media.tumblr.com/89422b49d056630ebddf9ea1af6e3cec/ffd645872182526e-0d/s1280x1920/9e859ead496adf69c47e0ca2acc631b838bffccc.jpg"
+    },
+    {
+      "org" : "website",
+      "size" : "large",
+      "x" : "70%",
+      "y" : "30%",
+      "src" : "https://64.media.tumblr.com/37e5b323cb6894a3b8a5237c5a053f41/a91a16832b660502-fb/s1280x1920/27e05a9a2279df3dd1be06586b552eb8c3ca755c.jpg"
+    }
   ]
 }
+
