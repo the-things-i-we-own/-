@@ -1,7 +1,7 @@
 {
   "title": "The Things I (We) Own, in 3D",
   "description": "2022年7月23日(土) - 8月21日(日) | ビーエヌエーオルターミュージアムにて | 入場無料／会期中無休",
-  "author": "creative-community.space",
+  "author": "∧°┐",
   "email": "pehu@creative-community.space",
   "type": "website",
   "twitter": "@pe_hu_",
@@ -11,23 +11,23 @@
   "org": [
     {
       "id": "show",
-      "name": "2022年7月23日(土)〜 8月21日(日)",
+      "name": "7月23日(土) - 8月21日(日)",
       "info": "ペフが所有する全てのもの（デジタル／フィジカル・新品／中古・制作物／販売品／非売品）を、発表／展示／販売する"
     },
     {
+      "id": "website",
+      "name": "How to Coding",
+      "info": "所有するもの を カテゴリー・タイプ などで 整理して記録する ウェブサイトを作る"
+    },
+    {
       "id": "motto",
-      "name": "P E H U is",
-      "info": "P E H U から始まる言葉を好きなものに印刷する"
+      "name": "Summer Collection",
+      "info": "P E H U から始まる言葉を印刷したアイテムを制作／販売する"
     },
     {
       "id": "print",
-      "name": "所有するものを保管する箱を装飾する",
-      "info": "大切にしたいものを所有する・所有するものを大切にする"
-    },
-    {
-      "id": "website",
-      "name": "所有するものを記録するウェブサイトを作る",
-      "info": "所有するもの を カテゴリー・タイプ などで 整理して記録する"
+      "name": "8月13日(土) - 16日(火)",
+      "info": "ペフがビーエヌエーオルターミュージアムに滞在し、令和四年版　夏の自由研究 を実施する"
     },
     {
       "id": "map",
@@ -38,16 +38,44 @@
 
   "cover" : [
     {
+      "org" : "print",
+      "size" : "xxx-large",
+      "x" : "30%",
+      "y" : "50%",
+      "src" : "logo.png"
+    },
+    {
+      "org" : "website",
+      "size" : "small",
+      "x" : "50%",
+      "y" : "50%",
+      "src" : "../qr.png"
+    },
+    {
+      "org" : "map",
+      "size" : "xxx-large",
+      "x" : "65%",
+      "y" : "50%",
+      "src" : "https://64.media.tumblr.com/aa6fa79e31cc19d5000489cc11da7858/84c715c72642fc9f-0e/s2048x3072/4be64a30e4b5497cbe82ea9d6804b65f81c0d295.jpg"
+    },
+    {
+      "org" : "motto",
+      "size" : "xx-large",
+      "x" : "55%",
+      "y" : "30%",
+      "src" : "https://64.media.tumblr.com/89422b49d056630ebddf9ea1af6e3cec/ffd645872182526e-0d/s1280x1920/9e859ead496adf69c47e0ca2acc631b838bffccc.jpg"
+    },
+    {
       "org" : "show",
       "size" : "xxx-large",
-      "x" : "50%",
+      "x" : "40%",
       "y" : "50%",
       "src" : "https://64.media.tumblr.com/873806933e2b0d9bd874d3621e334e80/183c0dc13be0fc7a-f7/s1280x1920/ffb62d6917a63b41ece67ef0475176b1c3d31f0e.jpg"
     },
     {
       "org" : "show",
       "size" : "x-large",
-      "x" : "20%",
+      "x" : "15%",
       "y" : "25%",
       "src" : "https://64.media.tumblr.com/9c19e16cc0eb4135820184104af50d0e/fcb9348a4d522de2-6e/s1280x1920/5031aebb3b542aef92568068ef90cdd97cf2a013.jpg"
     },
@@ -61,7 +89,7 @@
     {
       "org" : "website",
       "size" : "medium",
-      "x" : "40%",
+      "x" : "20%",
       "y" : "35%",
       "src" : "https://64.media.tumblr.com/79b8a99dc4cf0e8e4494655144d73cec/a91a16832b660502-95/s1280x1920/b224f799b25a11c0ed7b3b2ce84f3949d264ceca.png"
     },
@@ -75,9 +103,9 @@
     {
       "org" : "map",
       "size" : "xx-large",
-      "x" : "15%",
+      "x" : "25%",
       "y" : "75%",
-      "src" : "https://64.media.tumblr.com/aa6fa79e31cc19d5000489cc11da7858/84c715c72642fc9f-0e/s2048x3072/4be64a30e4b5497cbe82ea9d6804b65f81c0d295.jpg"
+      "src" : "https://64.media.tumblr.com/5fb93650cf663488f1b3d8398444acad/84c715c72642fc9f-43/s1280x1920/532acf8f17f2645192cbefc885468b8e7495e7ea.jpg"
     },
     {
       "org" : "map",
@@ -98,14 +126,14 @@
       "size" : "x-large",
       "x" : "35%",
       "y" : "75%",
-      "src" : "https://64.media.tumblr.com/18c06107145e42cc8d6263231af684ec/ffd645872182526e-8a/s1280x1920/06a5f13a695f072db8df9a351f8e866fea0768d8.jpg"
+      "src" : "https://64.media.tumblr.com/90aafd66f8bb02b738e13737fb900a7e/0f1663897d6ce2ee-dc/s1280x1920/cfa9a7a7ea8fa3f31d5e9c111acbf32cda3b9ee0.jpg"
     },
     {
       "org" : "motto",
       "size" : "large",
       "x" : "60%",
       "y" : "75%",
-      "src" : "https://64.media.tumblr.com/89422b49d056630ebddf9ea1af6e3cec/ffd645872182526e-0d/s1280x1920/9e859ead496adf69c47e0ca2acc631b838bffccc.jpg"
+      "src" : "https://64.media.tumblr.com/18c06107145e42cc8d6263231af684ec/ffd645872182526e-8a/s1280x1920/06a5f13a695f072db8df9a351f8e866fea0768d8.jpg"
     },
     {
       "org" : "website",
