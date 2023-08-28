@@ -5,10 +5,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="format-detection" content="telephone=no">
-    <script src="https://the-things-i-we-own.github.io/template/index.js" crossorigin="anonymous" async></script>
-    <script src="https://the-things-i-we-own.github.io/template/things.js" crossorigin="anonymous"></script>
-    <link rel="stylesheet" type="text/css" href="https://the-things-i-we-own.github.io/template/style.css" crossorigin="anonymous">
-    <link rel="stylesheet" type="text/css" href="https://the-things-i-we-own.github.io/template/cover.css" crossorigin="anonymous">
+    <script src="https://the-things-i-we-own.github.io/template/index.js" crossorigin async></script>
+    <script src="https://the-things-i-we-own.github.io/template/things.js" crossorigin defer></script>
+    <link rel="stylesheet" type="text/css" href="https://the-things-i-we-own.github.io/template/style.css" crossorigin />
+    <link rel="stylesheet" type="text/css" href="https://the-things-i-we-own.github.io/template/cover.css" crossorigin />
     <style>
         header {
             border-bottom: dotted #ddd 1px;
@@ -61,7 +61,20 @@
         </nav>
     </header>
 
-    <main id="cover" hidden>
+    <main id="things" hidden></main>
+    <script type="text/javascript">
+        document.addEventListener('DOMContentLoaded', function () {
+            thingsJSON('json/bon.json');
+            thingsJSON('json/0813.json');
+            thingsJSON('json/0814.json');
+            thingsJSON('json/0815.json');
+            thingsJSON('json/0816.json');
+            thingsJSON('json/start.json');
+            thingsJSON('json/end.json');
+        });
+    </script>
+
+    <main id="cover">
         <ul id="about">
             <p>
                 <strong>
@@ -79,20 +92,6 @@
             </p>
         </footer>
     </main>
-    
-    <main id="things"></main>
-    <script type="text/javascript">
-        document.addEventListener('DOMContentLoaded', function () {
-            changeHidden();
-            thingsJSON('json/bon.json');
-            thingsJSON('json/0813.json');
-            thingsJSON('json/0814.json');
-            thingsJSON('json/0815.json');
-            thingsJSON('json/0816.json');
-            thingsJSON('json/start.json');
-            thingsJSON('json/end.json');
-        });
-    </script>
     <script src="https://the-things-i-we-own.github.io/template/org.js" crossorigin="anonymous"></script>
 </body>
 
