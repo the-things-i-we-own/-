@@ -5,26 +5,39 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="format-detection" content="telephone=no">
-    <script src="https://the-things-i-we-own.github.io/template/index.js" crossorigin async></script>
-    <script src="https://the-things-i-we-own.github.io/template/things.js" crossorigin defer></script>
-    <link rel="stylesheet" type="text/css" href="https://the-things-i-we-own.github.io/template/style.css" crossorigin />
-    <link rel="stylesheet" type="text/css" href="https://the-things-i-we-own.github.io/template/cover.css" crossorigin />
-    <link rel="stylesheet" type="text/css" href="style.css" />
-</head>
 
-<body>
-    <header>
-        <h1 id="title">The Things I (We) Own</h1>
-        <p id="description" onclick="changeHidden()">所有するもの を カテゴリー・状態 ごとに 整理して記録する</p>
-        <nav id="org">
-            <input type="radio" name="org" id="all" value="all" checked>
-            <label for="all">Index</label>
-        </nav>
-    </header>
+    <!--meta-->
+    <meta content="website" property="og:type">
+    <title>The Things ∧°┐ Own</title>
+    <meta content="The Things ∧°┐ Own" property="og:title">
+    <meta content="このページに、ペフが所有するもの（出版物・制作物、所有作品、デジタルコンテンツ、など）を、記録します。" name="description">
+    <meta content="このページに、ペフが所有するもの（出版物・制作物、所有作品、デジタルコンテンツ、など）を、記録します。" name="og:description">
+    <meta content="∧°┐" name="author">
+    <meta content="pehu@creative-community.space" name="reply-to">
 
-    <main id="things" hidden></main>
+    <!--meta for Twitter-->
+    <meta content="summary_large_image" name="twitter:card">
+    <meta content="https://pehu.creative-community.space/org/" property="og:url">
+    <meta content="https://pehu.creative-community.space/org/card.png" property="og:image">
+    <meta content="https://pehu.creative-community.space/org/card.png" name="twitter:image:src">
+
+    <link rel="icon" href="3d/logo.png">
+    <link rel="stylesheet" type="text/css" href="stylesheet.css">
+
+    <!--https://the-things-i-we-own.github.io/-->
+    <link href="https://the-things-i-we-own.github.io/css/org.css" rel="stylesheet" type="text/css">
+    <link href="https://the-things-i-we-own.github.io/css/cover.css" rel="stylesheet" type="text/css">
+    <link href="https://the-things-i-we-own.github.io/css/index.css" rel="stylesheet" type="text/css">
+    <script src="https://the-things-i-we-own.github.io/js/script.js"></script>
+    <script src="https://the-things-i-we-own.github.io/js/org.js"></script>
+    <script src="https://the-things-i-we-own.github.io/js/cover.js"></script>
+    <script src="https://the-things-i-we-own.github.io/index.js"></script>
     <script type="text/javascript">
-        document.addEventListener('DOMContentLoaded', function () {
+        document.addEventListener("DOMContentLoaded", function () {
+            headToBody();
+            coverJson('json/cover.json');
+            readmeMD('README.md', '#readme');
+
             thingsJSON('json/publication.json');
             thingsJSON('json/otobuilding.json');
             thingsJSON('json/nishitemma.json');
@@ -32,18 +45,50 @@
             thingsJSON('json/1f.json');
         });
     </script>
+</head>
 
+<body>
+    <header>
+        <h1 id="title">The Things I (We) Own</h1>
+        <h2 id="description" onclick="changeMain()">所有するもの を カテゴリー・状態 ごとに 整理して記録する</h2>
+        <nav id="org">
+            <input id="all" value="all" type="radio" name="org" checked>
+            <label for="all" data-txt="ペフが所有するもの（出版物・制作物、所有作品、デジタルコンテンツ、など）">index</label>
+            <input id="bought" value="bought" type="radio" name="org">
+            <label for="bought" data-txt="購入したもの、外注して制作したもの、など">bought</label>
+            <input id="gift" value="gift" type="radio" name="org">
+            <label for="gift" data-txt="これまでに関わった人たちから頂いたもの、など">gift</label>
+            <input id="free" value="free" type="radio" name="org">
+            <label for="free" data-txt="拾ったもの、無料で配布されていたもの、など">free or found</label>
+            <input id="made" value="made" type="radio" name="org">
+            <label for="made" data-txt="作ったもの、出来たもの、など">made</label>
+            <input id="collaborations" value="collaborations" type="radio" name="org">
+            <label for="collaborations" data-txt="これまでに関わった人たちと一緒に作ったもの">collaborations</label>
+            <input id="other" value="other" type="radio" name="org">
+            <label for="other" data-txt="資料や書類など、上記のカテゴリーに当てはまらないもの">other</label>
+            <input id="sale" value="sale" type="radio" name="org">
+            <label for="sale" data-txt="出版物・関わった人たちの販売物、不要になった売りたいもの、など">$$$ FOR SALE $$$</label>
+        </nav>
+    </header>
     <main id="cover">
-        <ul id="about"></ul>
+        <h3 id="readme"></h3>
         <ul id="img"></ul>
-        <footer>
-            <p>
-                Author <b id="author"></b><br />
-                Email <a id="email"></a>
-            </p>
-        </footer>
     </main>
-    <script src="https://the-things-i-we-own.github.io/template/org.js" crossorigin></script>
+    <main id="things" hidden>
+        <ul id="about"></ul>
+    </main>
+    <footer>
+        <p>
+            <span>Author</span> <b id="author"></b><br />
+            <span>Email</span> <a id="email"></a>
+        </p>
+        <p id="lastModified">
+            <span>Last Modified</span> <time></time><br />
+            <span>Links</span>
+            <a href="https://github.com/the-things-i-we-own/" target="_blank">GitHub</a>
+            <a href="3d" target="_self">3D</a>
+        </p>
+    </footer>
 </body>
 
 </html>

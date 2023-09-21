@@ -1,41 +1,4 @@
 {
-  "title": "The Things I (We) Own, in 3D",
-  "description": "2022年7月23日(土) - 8月21日(日) | ビーエヌエーオルターミュージアムにて | 入場無料／会期中無休",
-  "author": "∧°┐",
-  "email": "pehu@creative-community.space",
-  "type": "website",
-  "twitter": "@pe_hu_",
-  "card": "summary",
-  "src": "summary.jpg",
-  "icon": "logo.png",
-  "org": [
-    {
-      "id": "show",
-      "name": "7月23日(土) - 8月21日(日)",
-      "info": "ペフが所有する全てのもの（デジタル／フィジカル・新品／中古・制作物／販売品／非売品）を、発表／展示／販売する"
-    },
-    {
-      "id": "website",
-      "name": "How to Coding",
-      "info": "所有するもの を カテゴリー・タイプ などで 整理して記録する ウェブサイトを作る"
-    },
-    {
-      "id": "motto",
-      "name": "Summer Collection",
-      "info": "P E H U から始まる言葉を印刷したアイテムを制作／販売する"
-    },
-    {
-      "id": "print",
-      "name": "8月13日(土) - 16日(火)",
-      "info": "ペフがビーエヌエーオルターミュージアムに滞在し、令和四年版　夏の自由研究 を実施する"
-    },
-    {
-      "id": "map",
-      "name": "things that i (we) heard",
-      "info": "私（わたしたち）がBnA Alter Museumの周りで聞いた言葉を集める"
-    }
-  ],
-
   "cover" : [
     {
       "org" : "print",

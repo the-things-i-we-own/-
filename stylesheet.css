@@ -8,12 +8,12 @@
   src: url("https://pe-hu.github.io/ver/font/SimSong.ttc");
 }
 
-h1,
-#org,
-ul strong,
-#about small,
-#things b,
-footer {
+#title,
+#org label,
+#things p,
+#things li b,
+#readme,
+footer p * {
   font-family: "MS Mincho", "SimSong", serif;
   font-weight: 500;
   font-stretch: condensed;
@@ -22,10 +22,15 @@ footer {
 
 #description,
 #about b,
-#things small,
-#things u {
-    font-family: Arial, Helvetica, sans-serif;
+#things li small,
+#things li u {
+  font-family: Arial, Helvetica, sans-serif;
   font-weight: 500;
+}
+
+#org input[type="radio"]+label,
+#about li b {
+  text-transform: uppercase;
 }
 
 #things ul u {
@@ -39,7 +44,8 @@ footer {
 }
 
 a,
-input[type="radio"]:not(:checked)+label {
+input[type="radio"]:not(:checked)+label,
+#readme {
   color: #ddd;
 }
 
@@ -65,6 +71,15 @@ header {
 
 footer {
   border-top: dotted #ddd 1px;
+}
+
+#things::-webkit-scrollbar {
+    width: 2rem;
+    height: 2rem;
+}
+
+#things::-webkit-scrollbar-track {
+    background-color: transparent;
 }
 
 #things::-webkit-scrollbar-thumb {
