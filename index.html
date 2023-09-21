@@ -52,7 +52,7 @@
         <h1 id="title">The Things I (We) Own</h1>
         <h2 id="description" onclick="changeMain()">所有するもの を カテゴリー・状態 ごとに 整理して記録する</h2>
         <nav id="org">
-            <input id="all" value="all" type="radio" name="org" checked>
+            <input id="all" value="all" type="radio" name="org" checked onclick="changeMain()">
             <label for="all" data-txt="ペフが所有するもの（出版物・制作物、所有作品、デジタルコンテンツ、など）">index</label>
             <input id="bought" value="bought" type="radio" name="org">
             <label for="bought" data-txt="購入したもの、外注して制作したもの、など">bought</label>
@@ -70,7 +70,7 @@
             <label for="sale" data-txt="出版物・関わった人たちの販売物、不要になった売りたいもの、など">$$$ FOR SALE $$$</label>
         </nav>
     </header>
-    <main id="cover">
+    <main id="cover" onclick="changeMain()">
         <h3 id="readme"></h3>
         <ul id="img"></ul>
     </main>
