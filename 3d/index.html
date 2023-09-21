@@ -54,7 +54,7 @@
         <h1 id="title">The Things I (We) Own</h1>
         <h2 id="description" onclick="changeMain()">所有するもの を カテゴリー・状態 ごとに 整理して記録する</h2>
         <nav id="org">
-            <input id="all" value="all" type="radio" name="org" checked>
+            <input id="all" value="all" type="radio" name="org" checked onclick="changeMain()">
             <label for="all" data-txt="ビーエヌエーオルターミュージアムにて | 入場無料／会期中無休">7月23日(土) - 8月21日(日)</label>
             <input id="show" value="show" type="radio" name="org">
             <label for="show" data-txt="ペフが所有する全てのもの（デジタル／フィジカル・新品／中古・制作物／販売品／非売品）を、発表／展示／販売する">私(わたしたち)が所有するのもの</label>
@@ -68,7 +68,7 @@
             <label for="map" data-txt="私（わたしたち）がBnA Alter Museumの周りで聞いた言葉を集める">things that i (we) heard</label>
         </nav>
     </header>
-    <main id="cover">
+    <main id="cover" onclick="changeMain()">
         <h3 id="readme"></h3>
         <ul id="img"></ul>
     </main>
